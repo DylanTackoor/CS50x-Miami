@@ -16,7 +16,7 @@ We'll then quickly transition to a more traditional text-based language called [
 
 The problems we'll solve in this course are inspired by real-world domains: cryptography, finance, forensics, gaming, and more.
 
-Over the course of CS50, you'll be part of a global community solving those same problems, surrounded (if virtually) by classmates, by Zamyla, by Rob, by Doug, and so many others on CS50's and CS50x Miami's team.
+Over the course of CS50x Miami, you'll be part of a global community solving those same problems, surrounded by classmates, by Dylan, by Marlise, by Chang, and so many others on CS50x Miami's team.
 
 But the most successful outcome ahead is to do something, ultimately, that we've not taught you. Indeed, what ultimately matters in this course is not so much where you end up relatively to your classmates, but where you end up relative to yourself when you began.
 
@@ -72,9 +72,10 @@ Let's get started.
 
 ## <a name="expectations"></a>Expectations
 You are expected to
-- submit nine problem sets,
-- take two quizzes, and
-- submit a final project.
+- submit nine [problem sets](#psets),
+- take two [quizzes](#quizzes),
+- submit a [final project](#finalproject), and
+- showcase your project at the [Project Fair](#projectfair).
 
 ## <a name="schedule"></a>Schedule
 Cohort 7 of CS50x Miami will begin August 28th, 2017 and end December 6th, 2017.
@@ -336,4 +337,4 @@ Unless you opt out as described in the Acknowledgment and Authorization, you are
 
 If you have any questions about the above, contact heads@CS50xMiami.com.
 
-This is CS50x Miami!
+This is <a href="http://www.theideacenter.co/cs50xmiami" target="_blank">CS50x Miami</a>!
