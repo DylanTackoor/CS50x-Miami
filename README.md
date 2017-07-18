@@ -30,6 +30,7 @@ Adaption of [CS50](https://www.cs50.net), [Harvard University's](http://www.harv
 - Course Title: CS50x Miami
 - Course Number: TBA
 - Schedule:
+    - Starts August 28th, ends December 6th
 	- Lectures
 		- What: Introduces new topics
 		- When: Mon/Wed, 6-8:30pm
@@ -56,7 +57,9 @@ You are expected to
 - submit a final project.
 
 ## <a name="schedule"></a>Schedule
-A list of functions (subject to change) are listed at [CS50xMiami.com/calendar](http://www.CS50xMiami.com/calendar) with descriptions found below. In the event of a change, this calendar will be the first to be updated.
+Cohort 7 of CS50x Miami will begin August 28th, 2017 and end December 6th, 2017.
+
+A list of class functions (subject to change) are listed at [CS50xMiami.com/calendar](http://www.CS50xMiami.com/calendar) with descriptions found below. In the event of a change, this calendar will be the first to be updated. We encourage you to subscribe to the calendar.
 
 
 ### <a name="lectures"></a>Lectures
