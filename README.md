@@ -1,11 +1,32 @@
 # CS50x Miami
 ![CS50x Miami Puzzle Day](http://i.imgur.com/1nrPm7c.jpg)
-[<img style="width: 100px;" src="https://upload.wikimedia.org/wikipedia/en/3/3a/Harvard_Wreath_Logo_1.svg" alt="Harvard University" />](http://www.harvard.edu/)
-[<img style="width: 100px;" src="http://i.imgur.com/7Rjxn1J.png" alt="The Idea Center" />](http://theideacenter.co/)
-[<img style="width: 100px;" src="http://i.imgur.com/wzb1fU6.png" alt="Miami Dade College" />](http://www.mdc.edu/)
+
+[<img style="width: 200px;" src="https://upload.wikimedia.org/wikipedia/en/3/3a/Harvard_Wreath_Logo_1.svg" alt="Harvard University" />](http://www.harvard.edu/)
+[<img style="width: 200px;" src="http://i.imgur.com/7Rjxn1J.png" alt="The Idea Center" />](http://theideacenter.co/)
+[<img style="width: 200px;" src="http://i.imgur.com/wzb1fU6.png" alt="Miami Dade College" />](http://www.mdc.edu/)
 
 ## Intro
-Adaption of [CS50](https://www.cs50.net), [Harvard University's](http://www.harvard.edu) introduction to the intellectual enterprises of computer science and the art of programming for [The Idea Center](http://www.theideacenter.co) @ [Miami Dade College](http://www.mdc.edu) and the South Flordia community. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience.
+[CS50x Miami](http://theideacenter.co/cs50xmiami) is [The Idea Center](http://www.theideacenter.co) @ [Miami Dade College](http://www.mdc.edu) adaption of [CS50](https://www.cs50.net), [Harvard University's](http://www.harvard.edu) introduction to the intellectual enterprises of computer science, and the art of programming, for MDC students and the South Florida community.
+
+But what does that mean?
+
+Well, CS50 is a course that teaches you how to design and implement solutions to problems. But more than that, it teaches you how to think more critically, more methodically, and more computationally, if you will.
+
+In fact, computer science itself isn't really about computers (or programming for that matter), it's really about information. How do you think about it? How do you represent it? And with what methods or algorithms can you process it?
+
+So, we'll first learn how to program with [Scratch](https://scratch.mit.edu/), a graphical programming language via which we'll explore some fundamental programming constructs, by dragging and dropping puzzle pieces.
+
+We'll then quickly transition to a more traditional text-based language called [C](https://en.wikipedia.org/wiki/C_programming_language), that's actually been around quite a while. And as such, it doesn't come with that many features out of the box, so to speak. So anything you want the computer to do, you're going to have to teach it to do yourself; from the simplest of algorithms, to the most sophisticated.
+
+The problems we'll solve in this course are inspired by real-world domains: cryptography, finance, forensics, gaming, and more.
+
+Over the course of CS50, you'll be part of a global community solving those same problems, surrounded (if virtually) by classmates, by Zamyla, by Rob, by Doug, and so many others on CS50's and CS50x Miami's team.
+
+But the most successful outcome ahead is to do something, ultimately, that we've not taught you. Indeed, what ultimately matters in this course is not so much where you end up relatively to your classmates, but where you end up relative to yourself when you began.
+
+And when you do end up there, will you be able to say proudly, just like I can, "I took CS50".
+
+Let's get started.
 
 ## Table of Contents
 1. [tl;dr (too long; didn’t read)](#tldr)
