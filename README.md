@@ -1,10 +1,6 @@
 # CS50x Miami
 ![CS50x Miami Puzzle Day](http://i.imgur.com/1nrPm7c.jpg)
 
-[<img style="width: 200px;" src="https://upload.wikimedia.org/wikipedia/en/3/3a/Harvard_Wreath_Logo_1.svg" alt="Harvard University" />](http://www.harvard.edu/)
-[<img style="width: 200px;" src="http://i.imgur.com/7Rjxn1J.png" alt="The Idea Center" />](http://theideacenter.co/)
-[<img style="width: 200px;" src="http://i.imgur.com/wzb1fU6.png" alt="Miami Dade College" />](http://www.mdc.edu/)
-
 ## Intro
 [CS50x Miami](http://theideacenter.co/cs50xmiami) is [The Idea Center](http://www.theideacenter.co) @ [Miami Dade College's](http://www.mdc.edu) adaption of [CS50](https://www.cs50.net), [Harvard University's](http://www.harvard.edu) introduction to the intellectual enterprises of computer science, and the art of programming, for MDC students and the South Florida community.
 
