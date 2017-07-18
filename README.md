@@ -1,5 +1,8 @@
 # CS50x Miami
 ![CS50x Miami Puzzle Day](http://i.imgur.com/1nrPm7c.jpg)
+[<img style="width: 100px;" src="https://upload.wikimedia.org/wikipedia/en/3/3a/Harvard_Wreath_Logo_1.svg" alt="Harvard University" />](http://www.harvard.edu/)
+[<img style="width: 100px;" src="http://i.imgur.com/7Rjxn1J.png" alt="The Idea Center" />](http://theideacenter.co/)
+[<img style="width: 100px;" src="http://i.imgur.com/wzb1fU6.png" alt="Miami Dade College" />](http://www.mdc.edu/)
 
 ## Intro
 Adaption of [CS50](https://www.cs50.net), [Harvard University's](http://www.harvard.edu) introduction to the intellectual enterprises of computer science and the art of programming for [The Idea Center](http://www.theideacenter.co) @ [Miami Dade College](http://www.mdc.edu) and the South Flordia community. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience.
