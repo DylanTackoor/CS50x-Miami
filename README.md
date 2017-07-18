@@ -98,20 +98,20 @@ A schedule of lectures, subject to change, appears below.
 
 | Lecture | Topic            | Part 1 | Part 1 |
 |---------|------------------|--------|--------|
-| Week 0  | Scratch          | TBA    | TBA    |
-| Week 1  | C                | TBA    | TBA    |
-| Week 2  | Arrays           | TBA    | TBA    |
-| Week 3  | Algorithims      | TBA    | TBA    |
-| Week 4  | Memory           | TBA    | TBA    |
-| Week 5  | Data Structures  | TBA    | TBA    |
-| Quiz    | Quiz #0          | Review | Quiz   |
-| Week 6  | HTTP             | TBA    | TBA    |
-| Week 7  | Machine Learning | TBA    | TBA    |
-| Week 8  | Python           | TBA    | TBA    |
-| Week 9  | SQL              | TBA    | TBA    |
-| Week 10 | JavaScript       | TBA    | TBA    |
-| Week 11 | Git & Github     | TBA    | TBA    |
-| Quiz    | Quiz #1          | Review | Quiz   |
+| Week 0  | [Scratch](https://video.cs50.net/2016/fall/lectures/0)              | TBA    | TBA    |
+| Week 1  | [C](https://video.cs50.net/2016/fall/lectures/1)                    | TBA    | TBA    |
+| Week 2  | [Arrays](https://video.cs50.net/2016/fall/lectures/2)               | TBA    | TBA    |
+| Week 3  | [Algorithims](https://video.cs50.net/2016/fall/lectures/3)          | TBA    | TBA    |
+| Week 4  | [Memory](https://video.cs50.net/2016/fall/lectures/4)               | TBA    | TBA    |
+| Week 5  | [Data Structures](https://github.com/christiansaravia/cs50#week05)  | TBA    | TBA    |
+| Quiz    | Quiz #0                                                             | Review | Quiz   |
+| Week 6  | [HTTP](https://github.com/christiansaravia/cs50#week06)             | TBA    | TBA    |
+| Week 7  | [Machine Learning](https://github.com/christiansaravia/cs50#week07) | TBA    | TBA    |
+| Week 8  | [Python](https://github.com/christiansaravia/cs50#week08)           | TBA    | TBA    |
+| Week 9  | [SQL](https://github.com/christiansaravia/cs50#week09)              | TBA    | TBA    |
+| Week 10 | [JavaScript](https://github.com/christiansaravia/cs50#week10)       | TBA    | TBA    |
+| Week 11 | Git & Github                                                        | TBA    | TBA    |
+| Quiz    | Quiz #1                                                             | Review | Quiz   |
 
 ### <a name="sections"></a>Sections
 Lectures are supplemented by weekly, 120-minute sections led by the teaching fellows. Sections provide you with opportunities to explore the course’s material in a more intimate environment, with only your teaching fellow and a handful of classmates present, as well as to dive into hands-on activities.
