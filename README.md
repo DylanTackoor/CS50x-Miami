@@ -162,7 +162,9 @@ You will need,
 
 ### <a name="psets"></a>Problem Sets
 Nine problem sets are assigned during the semester. Each is due by midnight on a Sunday. Late work is not ordinarily accepted, except in cases of emergency. A schedule of problem sets, subject to change, appears below.
-- Pset 1
+- Pset 0
+	- [Scratch](http://docs.cs50.net/2017/x/psets/0/pset0.html)
+- [Pset 1](http://docs.cs50.net/2017/x/psets/1/pset1.html)
 	- Implement [Hello](http://docs.cs50.net/problems/hello/hello.html)
 	- Implement [Water](http://docs.cs50.net/problems/water/water.html)
 	- Implement either of:
@@ -171,7 +173,7 @@ Nine problem sets are assigned during the semester. Each is due by midnight on a
 	- Implement either of:
 		- [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable
 		- [Credit](http://docs.cs50.net/problems/credit/credit.html), more comfortable
-- Pset 2
+- [Pset 2](http://docs.cs50.net/2017/x/psets/2/pset2.html)
 	- Implement either of:
 		- [Initials](http://docs.cs50.net/problems/initials/less/initials.html), less comfortable
 		- [Initials](http://docs.cs50.net/problems/initials/more/initials.html), more comfortable
@@ -179,20 +181,20 @@ Nine problem sets are assigned during the semester. Each is due by midnight on a
 		- [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable
 		- [Vigenere](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable
 		- [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable
-- Pset 3
+- [Pset 3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
 	- Implement either of:
 		- [Find](http://docs.cs50.net/problems/find/less/find.html), less comfortable
 		- [Find](http://docs.cs50.net/problems/find/more/find.html), more comfortable
 	- Implement [Game of Fifteen](http://docs.cs50.net/problems/fifteen/fifteen.html)
-- Pset 4
+- [Pset 4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
 	- Implement [Whodunit](http://docs.cs50.net/problems/whodunit/whodunit.html)
 	- Implement either of:
 		- [Resize](http://docs.cs50.net/problems/resize/less/resize.html), less comfortable
 		- [Resize](http://docs.cs50.net/problems/resize/more/resize.html), more comfortable
 	- Implement [Recover](http://docs.cs50.net/problems/recover/recover.html)
-- Pset 5
+- [Pset 5](http://docs.cs50.net/2017/x/psets/5/pset5.html)
 	- Implement [Speller](http://docs.cs50.net/problems/speller/speller.html)
-- Pset 6
+- [Pset 6](http://docs.cs50.net/2017/x/psets/6/pset6.html)
 	- Implement either of the below exactly as specified but in Python:
 		- [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable, in a file called `mario.py` in `pset6/`
 		- [Mario](http://docs.cs50.net/problems/mario/more/mario.html), more comfortable, in a file called `mario.py` in `pset6/`
@@ -204,9 +206,9 @@ Nine problem sets are assigned during the semester. Each is due by midnight on a
 		- [Vigenère](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable, in a file called `vigenere.py` in `pset6/`
 		- [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable, in a file called `crack.py` in `pset6/`
 	- Implement [Sentiments](http://docs.cs50.net/problems/sentiments/sentiments.html) in `pset6/sentiments/`
-- Pset 7
+- [Pset 7](http://docs.cs50.net/2017/x/psets/7/pset7.html)
 	- Implement [C$50 Finance](http://docs.cs50.net/problems/finance/finance.html) in `pset7/finance/`
-- Pset 8
+- [Pset 8](http://docs.cs50.net/2017/x/psets/8/pset8.html)
 	- Implement [Mashup](http://docs.cs50.net/problems/mashup/mashup.html) in `pset8/mashup/`
 
 ### <a name="quizzes"></a>Quizzes
