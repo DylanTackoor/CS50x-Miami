@@ -104,42 +104,31 @@ A schedule of sections and instructors, subject to change, appears below.
 | Saturday 9-11am   | Daniel Chang      | daniel@cs50xmiami.com  |
 | Saturday 12-2pm   | Marlise Urscheler | marlise@cs50xmiami.com |
 
-Section
-Dates
-C
-TBA
-Arrays
-TBA
-Algorithms
-TBA
-File I/O
-TBA
-Data Structures
-TBA
-Quiz #0 Review
-TBA
-Git
-TBA
-Python
-TBA
-SQL
-TBA
-JavaScript
-TBA
-Quiz #1 Review
-TBA
+| Section Subject  | Dates |
+|------------------|-------|
+| C                | TBA   |
+| Arrays           | TBA   |
+| Algorithms       | TBA   |
+| File I/O         | TBA   |
+| Data Structures  | TBA   |
+| Quiz #0 Review   | TBA   |
+| HTTP             | TBA   |
+| Machine Learning | TBA   |
+| Python           | TBA   |
+| SQL              | TBA   |
+| JavaScript       | TBA   |
+| Git & GitHub     | TBA   |
+| Quiz #1          | TBA   |
 
 ### <a name="codinghours"></a>Coding Hours
 Coding hours are opportunities for assistance with problem sets alongside the course’s teaching fellows and course assistants. Office hours schedule sometimes overlap with sections but their help is always available as there will be multiple teaching fellows on hand. They take place in the same room as that day's section.
 
-Day
-Time
-Monday
-2-5pm
-Wednesday
-2-5pm
-Saturday
-11am-5pm
+| Day       | Time   |
+|-----------|--------|
+| Monday    | 2-5pm  |
+| Wednesday | 2-5pm  |
+| Saturday  | 9-11am |
+| Saturday  | 12-2pm |
 
 ## <a name="tools"></a>Tools
 
@@ -320,7 +309,7 @@ When you submit Problem Set 0, you will need to sign online an Acknowledgement a
 >Unless I opt as described above and take the steps that will be outlined by the instructor to avoid being filmed, I authorize The Idea Center and its designees to record and use photos and video of my participation in CS50x Miami and activities related to CS50x Miami. I understand and agree that the captured media may include my image, name, and voice. I also understand and agree that, even if I opt out, my spoken name and voice may be picked up by microphones outside the "no-film" zone and may be recorded.
 >
 >I understand and agree that The Idea Center and its designees will have the irrevocable, worldwide right to make, edit, modify, copy, publish, transmit, distribute, sell, publicly display, publicly perform, and otherwise use and make available its respective recordings and any other works that may be derived from those recordings, in any manner or medium now known or later invented, and to authorize others to do so as well. I hereby transfer to The Idea Center any rights, including copyrights, I may have in the recordings that The Idea Center makes. I will remain free to use and disseminate any ideas, remarks, or other material that I may contribute to course discussions.
-
+>
 >I acknowledge and agree that I will not be entitled to any payment, now or in the future, in connection with the recordings or any works derived from them. This Acknowledgment and Authorization is a binding agreement, and is signed as a document under seal governed by the laws of the State of Florida.
 
 Unless you opt out as described in the Acknowledgment and Authorization, you are agreeing, by attending CS50x Miami, that your participation in CS50x Miami and related activities may be recorded and used by The Idea Center in connection with the Projects without further obligation or liability to you, even if you do not sign any authorization.
