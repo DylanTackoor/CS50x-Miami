@@ -6,7 +6,7 @@
 
 But what does that mean?
 
-Well, CS50 is a course that teaches you how to design and implement solutions to problems. But more than that, it teaches you how to think more critically, more methodically, and more computationally, if you will.
+Well, CS50x Miami is a course that teaches you how to design and implement solutions to problems. But more than that, it teaches you how to think more critically, more methodically, and more computationally, if you will.
 
 In fact, computer science itself isn't really about computers (or programming for that matter), it's really about information. How do you think about it? How do you represent it? And with what methods or algorithms can you process it?
 
@@ -78,13 +78,14 @@ You are expected to
 - showcase your project at the [Project Fair](#projectfair).
 
 ## <a name="schedule"></a>Schedule
-Cohort 7 of CS50x Miami will begin August 28th, 2017 and end December 6th, 2017.
+Cohort 7 of CS50x Miami will
+- begin August 28th, 2017 and
+- end December 6th, 2017.
 
 A list of class functions (subject to change) are listed at [CS50xMiami.com/calendar](http://www.CS50xMiami.com/calendar) with descriptions found below. In the event of a change, this calendar will be the first to be updated. We encourage you to subscribe to the calendar.
 
-
 ### <a name="lectures"></a>Lectures
-CS50x Miami officially meets on Mondays and Wednesdays, from 6pm until 8:30pm in The Idea Center, Room #8525. A typical lecture runs roughly as follows:
+CS50x Miami officially meets on Mondays and Wednesdays, from 6:00pm to 8:30pm in The Idea Center, Room #8525. A typical lecture runs roughly as follows:
 - 10 min: A short recap of the prior lecture
 - 60 min: Watching a portion of the lecture taught at Harvard
 - 10 min: A small break
@@ -93,22 +94,22 @@ CS50x Miami officially meets on Mondays and Wednesdays, from 6pm until 8:30pm in
 
 A schedule of lectures, subject to change, appears below.
 
-| Lecture | Topic            | Part 1 | Part 1 |
-|---------|------------------|--------|--------|
-| Week 0  | [Scratch](https://video.cs50.net/2016/fall/lectures/0)              | TBA    | TBA    |
-| Week 1  | [C](https://video.cs50.net/2016/fall/lectures/1)                    | TBA    | TBA    |
-| Week 2  | [Arrays](https://video.cs50.net/2016/fall/lectures/2)               | TBA    | TBA    |
-| Week 3  | [Algorithims](https://video.cs50.net/2016/fall/lectures/3)          | TBA    | TBA    |
-| Week 4  | [Memory](https://video.cs50.net/2016/fall/lectures/4)               | TBA    | TBA    |
-| Week 5  | [Data Structures](https://github.com/christiansaravia/cs50#week05)  | TBA    | TBA    |
-| Quiz    | Quiz #0                                                             | Review | Quiz   |
-| Week 6  | [HTTP](https://github.com/christiansaravia/cs50#week06)             | TBA    | TBA    |
-| Week 7  | [Machine Learning](https://github.com/christiansaravia/cs50#week07) | TBA    | TBA    |
-| Week 8  | [Python](https://github.com/christiansaravia/cs50#week08)           | TBA    | TBA    |
-| Week 9  | [SQL](https://github.com/christiansaravia/cs50#week09)              | TBA    | TBA    |
-| Week 10 | [JavaScript](https://github.com/christiansaravia/cs50#week10)       | TBA    | TBA    |
-| Week 11 | Git & Github                                                        | TBA    | TBA    |
-| Quiz    | Quiz #1                                                             | Review | Quiz   |
+| Lecture | Topic                                                          | Part 1 | Part 1 |
+|---------|----------------------------------------------------------------|--------|--------|
+| Week 0  | [Scratch](https://video.cs50.net/2016/fall/lectures/0)         | TBA    | TBA    |
+| Week 1  | [C](https://video.cs50.net/2016/fall/lectures/1)               | TBA    | TBA    |
+| Week 2  | [Arrays](https://video.cs50.net/2016/fall/lectures/2)          | TBA    | TBA    |
+| Week 3  | [Algorithims](https://video.cs50.net/2016/fall/lectures/3)     | TBA    | TBA    |
+| Week 4  | [Memory](https://video.cs50.net/2016/fall/lectures/4)          | TBA    | TBA    |
+| Week 5  | [Data Structures](http://video.cs50.net/2016/fall/lectures/5)  | TBA    | TBA    |
+| Quiz    | Review & Quiz #0                                               | Review | Quiz   |
+| Week 6  | [HTTP](http://video.cs50.net/2016/fall/lectures/6)             | TBA    | TBA    |
+| Week 7  | [Machine Learning](http://video.cs50.net/2016/fall/lectures/7) | TBA    | TBA    |
+| Week 8  | [Python](http://video.cs50.net/2016/fall/lectures/8)           | TBA    | TBA    |
+| Week 9  | [SQL](http://video.cs50.net/2016/fall/lectures/9)              | TBA    | TBA    |
+| Week 10 | [JavaScript](http://video.cs50.net/2016/fall/lectures/10)      | TBA    | TBA    |
+| Week 11 | [Git & Github](https://www.youtube.com/watch?v=MJUJ4wbFm_A)    | TBA    | TBA    |
+| Quiz    | Review & Quiz #1                                               | Review | Quiz   |
 
 ### <a name="sections"></a>Sections
 Lectures are supplemented by weekly, 120-minute sections led by the teaching fellows. Sections provide you with opportunities to explore the course’s material in a more intimate environment, with only your teaching fellow and a handful of classmates present, as well as to dive into hands-on activities.
@@ -117,8 +118,8 @@ Although you can attend multiple sections if your personal schedule allows, you 
 
 A schedule of sections and instructors, subject to change, appears below.
 
-| Date              | Teaching Fellow   | Contact                |
-|-------------------|-------------------|------------------------|
+| Date              | Teaching Fellow                                                | Contact                |
+|-------------------|----------------------------------------------------------------|------------------------|
 | Mondays 12-2pm    | [Dylan Tackoor](https://www.facebook.com/DylanTackoor)         | dylan@cs50xmiami.com   |
 | Wednesdays 12-2pm | [Gregory Barreto](https://www.facebook.com/TherealGregory)     | gregory@cs50xmiami.com |
 | Saturday 9-11am   | [Daniel Chang](https://www.facebook.com/daniel.chang.129)      | daniel@cs50xmiami.com  |
