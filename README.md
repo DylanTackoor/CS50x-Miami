@@ -1,9 +1,8 @@
 # CS50x Miami
-
 ![CS50x Miami Puzzle Day](http://i.imgur.com/1nrPm7c.jpg)
 
 ## Intro
-Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience.
+Adaption of [CS50](https://www.cs50.net), [Harvard University's](http://www.harvard.edu) introduction to the intellectual enterprises of computer science and the art of programming for [The Idea Center](http://www.theideacenter.co) @ [Miami Dade College](http://www.mdc.edu) and the South Flordia community. This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience.
 
 ## Table of Contents
 1. [tl;dr (too long; didn’t read)](#tldr)
@@ -28,7 +27,6 @@ Introduction to the intellectual enterprises of computer science and the art of 
 9. [Acknowledgement & Authorization](#acknowledgement)
 
 ## <a name="tldr"></a>tl;dr (too long; didn’t read)
-
 - Course Title: CS50x Miami
 - Course Number: TBA
 - Schedule:
@@ -53,7 +51,6 @@ Introduction to the intellectual enterprises of computer science and the art of 
 
 ## <a name="expectations"></a>Expectations
 You are expected to
-
 - submit nine problem sets,
 - take two quizzes, and
 - submit a final project.
@@ -64,7 +61,6 @@ A list of functions (subject to change) are listed at [CS50xMiami.com/calendar](
 
 ### <a name="lectures"></a>Lectures
 CS50x Miami officially meets on Mondays and Wednesdays, from 6pm until 8:30pm in The Idea Center, Room #8525. A typical lecture runs roughly as follows:
-
 - 10 min: A short recap of the prior lecture
 - 60 min: Watching a portion of the lecture taught at Harvard
 - 10 min: A small break
@@ -134,7 +130,6 @@ Coding hours are opportunities for assistance with problem sets alongside the co
 
 ### <a name="accounts"></a>Accounts
 You will need,
-
 - [ ] A [GitHub](https://github.com/) account
 	- [ ] with [CS50.me](https://cs50.me/) authorized
 - [ ] An [edX.org](https://www.edx.org/) account
@@ -143,8 +138,7 @@ You will need,
 ## <a name="assignments"></a>Assignments
 
 ### <a name="psets"></a>Problem Sets
-Nine problem sets are assigned during the semester. Each is due by midnight on a Sunday. Late work is not ordinarily accepted, except in cases of emergency. A schedule of problem sets, subject to change, appears below. 
-
+Nine problem sets are assigned during the semester. Each is due by midnight on a Sunday. Late work is not ordinarily accepted, except in cases of emergency. A schedule of problem sets, subject to change, appears below.
 - Pset 1
 	- Implement [Hello](http://docs.cs50.net/problems/hello/hello.html)
 	- Implement [Water](http://docs.cs50.net/problems/water/water.html)
