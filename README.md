@@ -9,21 +9,21 @@ Introduction to the intellectual enterprises of computer science and the art of 
 1. [tl;dr (too long; didn’t read)](#tldr)
 2. [Expectations](#expectations)
 3. [Schedule](#schedule)
-    - [Lectures](#lectures)
-    - [Sections](#sections)
-    - [Coding Hours](#codinghours)
+	- [Lectures](#lectures)
+	- [Sections](#sections)
+	- [Coding Hours](#codinghours)
 4. [Tools](#tools)
 5. [Assignments](#assignments)
-    - [Problem Sets](#psets)
-    - [Quizzes](#quizzes)
-    - [Final Project](#finalproject)
+	- [Problem Sets](#psets)
+	- [Quizzes](#quizzes)
+	- [Final Project](#finalproject)
 6. [Events](#events)
-    - [Puzzle Day](#puzzleday)
-    - [Hackathon](#hackathon)
-    - [Project Fair](#projectfair)
+	- [Puzzle Day](#puzzleday)
+	- [Hackathon](#hackathon)
+	- [Project Fair](#projectfair)
 7. [Academic Honesty](#academichonesty)
-    - [Reasonable](#reasonable)
-    - [Not Reasonable](#notreasonable)
+	- [Reasonable](#reasonable)
+	- [Not Reasonable](#notreasonable)
 8. [Books](#books)
 9. [Acknowledgement & Authorization](#acknowledgement)
 
@@ -32,24 +32,24 @@ Introduction to the intellectual enterprises of computer science and the art of 
 - Course Title: CS50x Miami
 - Course Number: TBA
 - Schedule:
-    - Lectures
-        - What: Introduces new topics
-        - When: Mon/Wed, 6-8:30pm
-        - REQUIRED
-    - Sections
-        - What: Further breaks down topics introduced in Lectures in smaller, more intimate groups
-        - When: Your choice of Mon/Wed/Sat 12-2pm, OR Sat morning 9-11am
-        - REQUIRED and must consistently show up to one
-    - Coding Hours
-        - What: One-on-one tutoring
-        - When: Mon/Wed/Sat from 2-5pm
-        - Term: Fall
+	- Lectures
+		- What: Introduces new topics
+		- When: Mon/Wed, 6-8:30pm
+		- REQUIRED
+	- Sections
+		- What: Further breaks down topics introduced in Lectures in smaller, more intimate groups
+		- When: Your choice of Mon/Wed/Sat 12-2pm, OR Sat morning 9-11am
+		- REQUIRED and must consistently show up to one
+	- Coding Hours
+		- What: One-on-one tutoring
+		- When: Mon/Wed/Sat from 2-5pm
+		- Term: Fall
 - Credits for:
-    - C++, 4 credits
-    - PHP/MySQL, 4 credits
+	- C++, 4 credits
+	- PHP/MySQL, 4 credits
 - Problem Sets are
-    - weekly homework assignments
-    - due on Fridays
+	- weekly homework assignments
+	- due on Fridays
 
 ## <a name="expectations"></a>Expectations
 You are expected to
@@ -147,9 +147,9 @@ Saturday
 You will need,
 
 - [ ] A [GitHub](https://github.com/) account
-    - [ ] with [CS50.me](https://cs50.me/) authorized
+	- [ ] with [CS50.me](https://cs50.me/) authorized
 - [ ] An [edX.org](https://www.edx.org/) account
-    - [ ] enrolled into [CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+	- [ ] enrolled into [CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 ## <a name="assignments"></a>Assignments
 
@@ -157,51 +157,51 @@ You will need,
 Nine problem sets are assigned during the semester. Each is due by midnight on a Sunday. Late work is not ordinarily accepted, except in cases of emergency. A schedule of problem sets, subject to change, appears below. 
 
 - Pset 1
-    - Implement [Hello](http://docs.cs50.net/problems/hello/hello.html)
-    - Implement [Water](http://docs.cs50.net/problems/water/water.html)
-    - Implement either of:
-        - [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable
-        - [Mario](http://docs.cs50.net/problems/mario/more/mario.html), more comfortable
-    - Implement either of:
-        - [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable
-        - [Credit](http://docs.cs50.net/problems/credit/credit.html), more comfortable
+	- Implement [Hello](http://docs.cs50.net/problems/hello/hello.html)
+	- Implement [Water](http://docs.cs50.net/problems/water/water.html)
+	- Implement either of:
+		- [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable
+		- [Mario](http://docs.cs50.net/problems/mario/more/mario.html), more comfortable
+	- Implement either of:
+		- [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable
+		- [Credit](http://docs.cs50.net/problems/credit/credit.html), more comfortable
 - Pset 2
-    - Implement either of:
-        - [Initials](http://docs.cs50.net/problems/initials/less/initials.html), less comfortable
-        - [Initials](http://docs.cs50.net/problems/initials/more/initials.html), more comfortable
-    - Implement any two (2) of:
-        - [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable
-        - [Vigenere](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable
-        - [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable
+	- Implement either of:
+		- [Initials](http://docs.cs50.net/problems/initials/less/initials.html), less comfortable
+		- [Initials](http://docs.cs50.net/problems/initials/more/initials.html), more comfortable
+	- Implement any two (2) of:
+		- [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable
+		- [Vigenere](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable
+		- [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable
 - Pset 3
-    - Implement either of:
-        - [Find](http://docs.cs50.net/problems/find/less/find.html), less comfortable
-        - [Find](http://docs.cs50.net/problems/find/more/find.html), more comfortable
-    - Implement [Game of Fifteen](http://docs.cs50.net/problems/fifteen/fifteen.html)
+	- Implement either of:
+		- [Find](http://docs.cs50.net/problems/find/less/find.html), less comfortable
+		- [Find](http://docs.cs50.net/problems/find/more/find.html), more comfortable
+	- Implement [Game of Fifteen](http://docs.cs50.net/problems/fifteen/fifteen.html)
 - Pset 4
-    - Implement [Whodunit](http://docs.cs50.net/problems/whodunit/whodunit.html)
-    - Implement either of:
-        - [Resize](http://docs.cs50.net/problems/resize/less/resize.html), less comfortable
-        - [Resize](http://docs.cs50.net/problems/resize/more/resize.html), more comfortable
-    - Implement [Recover](http://docs.cs50.net/problems/recover/recover.html)
+	- Implement [Whodunit](http://docs.cs50.net/problems/whodunit/whodunit.html)
+	- Implement either of:
+		- [Resize](http://docs.cs50.net/problems/resize/less/resize.html), less comfortable
+		- [Resize](http://docs.cs50.net/problems/resize/more/resize.html), more comfortable
+	- Implement [Recover](http://docs.cs50.net/problems/recover/recover.html)
 - Pset 5
-    - Implement [Speller](http://docs.cs50.net/problems/speller/speller.html)
+	- Implement [Speller](http://docs.cs50.net/problems/speller/speller.html)
 - Pset 6
-    - Implement either of the below exactly as specified but in Python:
-        - [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable, in a file called `mario.py` in `pset6/`
-        - [Mario](http://docs.cs50.net/problems/mario/more/mario.html), more comfortable, in a file called `mario.py` in `pset6/`
-    - Implement either of the below exactly as specified but in Python:
-        - [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable, in a file called `greedy.py` in `pset6/`
-        - [Credit](http://docs.cs50.net/problems/credit/credit.html), more comfortable, in a file called `credit.py` in `pset6/`
-    - Implement any (one) of the below exactly as specified but in Python:
-        - [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable, in a file called `caesar.py` in `pset6/`
-        - [Vigenère](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable, in a file called `vigenere.py` in `pset6/`
-        - [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable, in a file called `crack.py` in `pset6/`
-    - Implement [Sentiments](http://docs.cs50.net/problems/sentiments/sentiments.html) in `pset6/sentiments/`
+	- Implement either of the below exactly as specified but in Python:
+		- [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable, in a file called `mario.py` in `pset6/`
+		- [Mario](http://docs.cs50.net/problems/mario/more/mario.html), more comfortable, in a file called `mario.py` in `pset6/`
+	- Implement either of the below exactly as specified but in Python:
+		- [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable, in a file called `greedy.py` in `pset6/`
+		- [Credit](http://docs.cs50.net/problems/credit/credit.html), more comfortable, in a file called `credit.py` in `pset6/`
+	- Implement any (one) of the below exactly as specified but in Python:
+		- [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable, in a file called `caesar.py` in `pset6/`
+		- [Vigenère](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable, in a file called `vigenere.py` in `pset6/`
+		- [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable, in a file called `crack.py` in `pset6/`
+	- Implement [Sentiments](http://docs.cs50.net/problems/sentiments/sentiments.html) in `pset6/sentiments/`
 - Pset 7
-    - Implement [C$50 Finance](http://docs.cs50.net/problems/finance/finance.html) in `pset7/finance/`
+	- Implement [C$50 Finance](http://docs.cs50.net/problems/finance/finance.html) in `pset7/finance/`
 - Pset 8
-    - Implement [Mashup](http://docs.cs50.net/problems/mashup/mashup.html) in `pset8/mashup/`
+	- Implement [Mashup](http://docs.cs50.net/problems/mashup/mashup.html) in `pset8/mashup/`
 
 ### <a name="quizzes"></a>Quizzes
 The course has two 90-minute quizzes. These quizzes are "closed-book," but you may utilize during each quiz one two-sided page (8.5" × 11") of handwritten or typed notes, blank scrap paper, and a pen or pencil, nothing else.
@@ -291,24 +291,24 @@ If you commit some act that is not reasonable but bring it to the attention of t
 No books are required or recommended for this course. However, you might find the below books of interest. Realize that free, if not superior, resources can be found on the course’s website.
 
 - [C Programming Absolute Beginner’s Guide, Third Edition](https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984)
-    - Greg Perry, Dean Miller
-    - Pearson Education, 2014
-    - ISBN 0-789-75198-4
+	- Greg Perry, Dean Miller
+	- Pearson Education, 2014
+	- ISBN 0-789-75198-4
 
 - [Hacker’s Delight, Second Edition](https://www.amazon.com/Hackers-Delight-2nd-Henry-Warren/dp/0321842685)
-    - Henry S. Warren Jr.
-    - Pearson Education, 2013
-    - ISBN 0-321-84268-5
+	- Henry S. Warren Jr.
+	- Pearson Education, 2013
+	- ISBN 0-321-84268-5
 
 - [How Computers Work, Tenth Edition](https://www.amazon.com/How-Computers-Work-Evolution-Technology/dp/078974984X)
-    - Ron White
-    - Que Publishing, 2014
-    - ISBN 0-7897-4984-X
+	- Ron White
+	- Que Publishing, 2014
+	- ISBN 0-7897-4984-X
 
 - [Programming in C, Fourth Edition](https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410)
-    - Stephen G. Kochan
-    - Pearson Education, 2015
-    - ISBN 0-321-77641-0
+	- Stephen G. Kochan
+	- Pearson Education, 2015
+	- ISBN 0-321-77641-0
 
 ## <a name="acknowledgement"></a>Acknowledgement & Authorization
 The Idea Center plans to record audio, photos, and video of CS50x Miami lectures, sections, office hours, seminars, and other events and activities related to CS50x Miami, with the aims of making the content of the course more widely available and contributing to public understanding of innovative learning. The recordings, or edited versions of them, may be made available to other Miami Dade College students, to students at other educational institutions, and to the broader public via the Internet, television, theatrical distribution, digital media, or other means. It is also possible that the Recordings may be used to make other derivative works in the future. Students may elect not to appear in photos and video and may still participate fully in CS50x Miami.
@@ -320,7 +320,7 @@ When you submit Problem Set 0, you will need to sign online an Acknowledgement a
 >Unless I opt as described above and take the steps that will be outlined by the instructor to avoid being filmed, I authorize The Idea Center and its designees to record and use photos and video of my participation in CS50x Miami and activities related to CS50x Miami. I understand and agree that the captured media may include my image, name, and voice. I also understand and agree that, even if I opt out, my spoken name and voice may be picked up by microphones outside the "no-film" zone and may be recorded.
 >
 >I understand and agree that The Idea Center and its designees will have the irrevocable, worldwide right to make, edit, modify, copy, publish, transmit, distribute, sell, publicly display, publicly perform, and otherwise use and make available its respective recordings and any other works that may be derived from those recordings, in any manner or medium now known or later invented, and to authorize others to do so as well. I hereby transfer to The Idea Center any rights, including copyrights, I may have in the recordings that The Idea Center makes. I will remain free to use and disseminate any ideas, remarks, or other material that I may contribute to course discussions.
->
+
 >I acknowledge and agree that I will not be entitled to any payment, now or in the future, in connection with the recordings or any works derived from them. This Acknowledgment and Authorization is a binding agreement, and is signed as a document under seal governed by the laws of the State of Florida.
 
 Unless you opt out as described in the Acknowledgment and Authorization, you are agreeing, by attending CS50x Miami, that your participation in CS50x Miami and related activities may be recorded and used by The Idea Center in connection with the Projects without further obligation or liability to you, even if you do not sign any authorization.
