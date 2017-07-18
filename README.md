@@ -6,7 +6,7 @@
 [<img style="width: 200px;" src="http://i.imgur.com/wzb1fU6.png" alt="Miami Dade College" />](http://www.mdc.edu/)
 
 ## Intro
-[CS50x Miami](http://theideacenter.co/cs50xmiami) is [The Idea Center](http://www.theideacenter.co) @ [Miami Dade College](http://www.mdc.edu) adaption of [CS50](https://www.cs50.net), [Harvard University's](http://www.harvard.edu) introduction to the intellectual enterprises of computer science, and the art of programming, for MDC students and the South Florida community.
+[CS50x Miami](http://theideacenter.co/cs50xmiami) is [The Idea Center](http://www.theideacenter.co) @ [Miami Dade College's](http://www.mdc.edu) adaption of [CS50](https://www.cs50.net), [Harvard University's](http://www.harvard.edu) introduction to the intellectual enterprises of computer science, and the art of programming, for MDC students and the South Florida community.
 
 But what does that mean?
 
