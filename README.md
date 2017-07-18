@@ -118,12 +118,12 @@ Although you can attend multiple sections if your personal schedule allows, you 
 
 A schedule of sections and instructors, subject to change, appears below.
 
-| Date              | Teaching Fellow                                                | Contact                |
-|-------------------|----------------------------------------------------------------|------------------------|
-| Mondays 12-2pm    | [Dylan Tackoor](https://www.facebook.com/DylanTackoor)         | dylan@cs50xmiami.com   |
-| Wednesdays 12-2pm | [Gregory Barreto](https://www.facebook.com/TherealGregory)     | gregory@cs50xmiami.com |
-| Saturday 9-11am   | [Daniel Chang](https://www.facebook.com/daniel.chang.129)      | daniel@cs50xmiami.com  |
-| Saturday 12-2pm   | [Marlise Urscheler](https://www.facebook.com/marliseurscheler) | marlise@cs50xmiami.com |
+| Days       | Teaching Fellow                                                | Contact                |
+|------------|----------------------------------------------------------------|------------------------|
+| Mon 12-2pm | [Dylan Tackoor](https://www.facebook.com/DylanTackoor)         | dylan@cs50xmiami.com   |
+| Wed 12-2pm | [Gregory Barreto](https://www.facebook.com/TherealGregory)     | gregory@cs50xmiami.com |
+| Sat 9-11am | [Daniel Chang](https://www.facebook.com/daniel.chang.129)      | daniel@cs50xmiami.com  |
+| Sat 12-2pm | [Marlise Urscheler](https://www.facebook.com/marliseurscheler) | marlise@cs50xmiami.com |
 
 | Section Subject  | Dates |
 |------------------|-------|
