@@ -80,8 +80,8 @@ A schedule of lectures, subject to change, appears below.
 | Week 2  | Arrays           | TBA    | TBA    |
 | Week 3  | Algorithims      | TBA    | TBA    |
 | Week 4  | Memory           | TBA    | TBA    |
-| Quiz    | Quiz #0          | Review | Quiz   |
 | Week 5  | Data Structures  | TBA    | TBA    |
+| Quiz    | Quiz #0          | Review | Quiz   |
 | Week 6  | HTTP             | TBA    | TBA    |
 | Week 7  | Machine Learning | TBA    | TBA    |
 | Week 8  | Python           | TBA    | TBA    |
