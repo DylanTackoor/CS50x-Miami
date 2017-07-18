@@ -1,7 +1,7 @@
 # CS50x Miami
 ![CS50x Miami Puzzle Day](http://i.imgur.com/1nrPm7c.jpg)
 
-## Intro
+## Introduction
 [CS50x Miami](http://theideacenter.co/cs50xmiami) is [The Idea Center](http://www.theideacenter.co) @ [Miami Dade College's](http://www.mdc.edu) adaption of [CS50](https://www.cs50.net), [Harvard University's](http://www.harvard.edu) introduction to the intellectual enterprises of computer science, and the art of programming, for MDC students and the South Florida community.
 
 But what does that mean?
@@ -48,27 +48,27 @@ Let's get started.
 
 ## <a name="tldr"></a>tl;dr (too long; didn’t read)
 - Course Title: CS50x Miami
-- Course Number: TBA
+- Starts August 28th
+- Ends December 6th
 - Schedule:
-    - Starts August 28th, ends December 6th
 	- Lectures
-		- What: Introduces new topics
+		- What: New topics introduction
 		- When: Mon/Wed, 6-8:30pm
 		- REQUIRED
 	- Sections
-		- What: Further breaks down topics introduced in Lectures in smaller, more intimate groups
+		- What: Current topics breakdown & Q&A in smaller groups 
 		- When: Your choice of Mon/Wed/Sat 12-2pm, OR Sat morning 9-11am
 		- REQUIRED and must consistently show up to one
 	- Coding Hours
-		- What: One-on-one tutoring
+		- What: One-on-one tutoring & peer collaboration
 		- When: Mon/Wed/Sat from 2-5pm
 		- Term: Fall
-- Credits for:
-	- C++, 4 credits
-	- PHP/MySQL, 4 credits
 - Problem Sets are
 	- weekly homework assignments
-	- due on Fridays
+	- due on Sundays
+- Credits for:
+	- COP 1334 - Introduction to C++ Programming (4 credits)
+	- CTS 2440 - Introduction to Oracle: SQL and PL/SQL (4 credits)
 
 ## <a name="expectations"></a>Expectations
 You are expected to
@@ -244,17 +244,18 @@ Extensions on the final project are not ordinarily granted, except in cases of e
 ### <a name="puzzleday"></a>Puzzle Day
 The first Saturday of the class is our Puzzle Day, open to CS50x Miami students (and friends). Solve non-programming related logic questions. Teams of 2, 3, or 4 encouraged but not required. Every member of your team should register anytime before Friday, TBA. Invite friends to register as well!
 
-We will have pizza, candy, soda, music, a DJ, and a photobooth! All photos will be posted on Facebook.
+We will have pizza, candy, soda, music, a DJ, and a photobooth!
 
 ### <a name="hackathon"></a>Hackathon
-On Saturday, TBA, is the Hackathon, an epic hacking session during which you can dive into your final project’s implementation alongside classmates and staff. If you choose to partake, you’ll be asked to propose three milestones for yourself that evening: a "good" one that you intend to achieve no matter what; a "better" one that you think you can achieve; and a "best" one that you hope to achieve.
+On Saturday, TBA, is the Hackathon, an epic hacking session during which you can dive into your final project’s implementation alongside classmates and staff. If you choose to partake, you’ll be asked to propose three milestones for yourself that evening:
+- a "good" one that you intend to achieve no matter what;
+- a "better" one that you think you can achieve; 
+- and a "best" one that you hope to achieve.
 
-Food will be served!
+Also in attendance are candy, soda, and pizza (noticing a trend yet?).
 
 ### <a name="projectfair"></a>Project Fair
-From 6pm until 8pm on Wed 4/26 is the Fair, an epic display of final projects. Not only is the CS50x Miami Fair a venue at which to see classmates' projects and demo your own, it is an opportunity to mingle with students, faculty, and staff from across campus as well as recruiters from industry. Attendance is expected of all students.
-
-Also in attendance are popcorn, candy, and a raffle with (fabulous) prizes. Family and friends are welcome to join.
+From 6pm until 8pm on TBA is the Fair, an epic display of final projects. Not only is the CS50x Miami Fair a venue at which to see classmates' projects and demo your own, it is an opportunity to mingle with students, family, faculty, and staff from across campus as well as recruiters from industry. Attendance is expected of all students.
 
 ## <a name="academichonesty"></a>Academic Honesty
 This course’s philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course’s material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
@@ -323,7 +324,7 @@ The Idea Center plans to record audio, photos, and video of CS50x Miami lectures
 
 When you submit Problem Set 0, you will need to sign online an Acknowledgement and Authorization in the following form:
 
->I understand that, if I do not wish any photos or video of me to be used as part of the Projects, I should so inform the course’s instructor by emailing heads@cs50xmiami.com within one week of enrolling in CS50x Miami. In that event, I understand that I should sit in the designated "no-film" zone of CS50x Miami classrooms and should not walk in the field of view of the cameras. I understand that The Idea Center will take reasonable steps, with my cooperation, to avoid including identifiable photos and video shot in classrooms and other course locations after I opt out as just described. I understand that I am free to opt out of photos and video in this way, and that doing so will not affect my grade or my ability to participate in course activities.
+>I understand that, if I do not wish any photos or video of me to be used, I should so inform the course’s instructor by emailing heads@cs50xmiami.com within one week of enrolling in CS50x Miami. In that event, I understand that I should sit in the designated "no-film" zone of CS50x Miami classrooms and should not walk in the field of view of the cameras. I understand that The Idea Center will take reasonable steps, with my cooperation, to avoid including identifiable photos and video shot in classrooms and other course locations after I opt out as just described. I understand that I am free to opt out of photos and video in this way, and that doing so will not affect my grade or my ability to participate in course activities.
 >
 >Unless I opt as described above and take the steps that will be outlined by the instructor to avoid being filmed, I authorize The Idea Center and its designees to record and use photos and video of my participation in CS50x Miami and activities related to CS50x Miami. I understand and agree that the captured media may include my image, name, and voice. I also understand and agree that, even if I opt out, my spoken name and voice may be picked up by microphones outside the "no-film" zone and may be recorded.
 >
@@ -331,7 +332,7 @@ When you submit Problem Set 0, you will need to sign online an Acknowledgement a
 >
 >I acknowledge and agree that I will not be entitled to any payment, now or in the future, in connection with the recordings or any works derived from them. This Acknowledgment and Authorization is a binding agreement, and is signed as a document under seal governed by the laws of the State of Florida.
 
-Unless you opt out as described in the Acknowledgment and Authorization, you are agreeing, by attending CS50x Miami, that your participation in CS50x Miami and related activities may be recorded and used by The Idea Center in connection with the Projects without further obligation or liability to you, even if you do not sign any authorization.
+Unless you opt out as described in the Acknowledgment and Authorization, you are agreeing, by attending CS50x Miami, that your participation in CS50x Miami and related activities may be recorded and used by The Idea Center without further obligation or liability to you, even if you do not sign any authorization.
 
 If you have any questions about the above, contact heads@CS50xMiami.com.
 
