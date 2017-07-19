@@ -128,22 +128,6 @@ A schedule of sections and instructors, subject to change, appears below.
 | Sat 9-11am | [Daniel Chang](https://www.facebook.com/daniel.chang.129)      | daniel@cs50xmiami.com  |
 | Sat 12-2pm | [Marlise Urscheler](https://www.facebook.com/marliseurscheler) | marlise@cs50xmiami.com |
 
-| Section Subject  | Dates |
-|------------------|-------|
-| C                | TBA   |
-| Arrays           | TBA   |
-| Algorithms       | TBA   |
-| File I/O         | TBA   |
-| Data Structures  | TBA   |
-| Quiz #0 Review   | TBA   |
-| HTTP             | TBA   |
-| Machine Learning | TBA   |
-| Python           | TBA   |
-| SQL              | TBA   |
-| JavaScript       | TBA   |
-| Git & GitHub     | TBA   |
-| Quiz #1          | TBA   |
-
 - Scratch
 	- [Scratch](https://www.youtube.com/watch?v=52JoFF4HMA4)
 	- [Slides](https://docs.google.com/presentation/d/1tY-0XDh4xTLaQqXwuOmFR1J2bLcjryZ-WeJqfDKzGH4/edit?usp=sharing)
