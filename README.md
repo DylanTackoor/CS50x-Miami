@@ -97,22 +97,22 @@ CS50x Miami officially meets on Mondays and Wednesdays, from 6:00pm to 8:30pm in
 
 A schedule of lectures, subject to change, appears below.
 
-| Lecture | Topic                                                          | Part 1 | Part 1 |
-|---------|----------------------------------------------------------------|--------|--------|
-| Week 0  | [Scratch](https://video.cs50.net/2016/fall/lectures/0)         | TBA    | TBA    |
-| Week 1  | [C](https://video.cs50.net/2016/fall/lectures/1)               | TBA    | TBA    |
-| Week 2  | [Arrays](https://video.cs50.net/2016/fall/lectures/2)          | TBA    | TBA    |
-| Week 3  | [Algorithims](https://video.cs50.net/2016/fall/lectures/3)     | TBA    | TBA    |
-| Week 4  | [Memory](https://video.cs50.net/2016/fall/lectures/4)          | TBA    | TBA    |
-| Week 5  | [Data Structures](http://video.cs50.net/2016/fall/lectures/5)  | TBA    | TBA    |
-| Quiz    | Review & Quiz #0                                               | Review | Quiz   |
-| Week 6  | [HTTP](http://video.cs50.net/2016/fall/lectures/6)             | TBA    | TBA    |
-| Week 7  | [Machine Learning](http://video.cs50.net/2016/fall/lectures/7) | TBA    | TBA    |
-| Week 8  | [Python](http://video.cs50.net/2016/fall/lectures/8)           | TBA    | TBA    |
-| Week 9  | [SQL](http://video.cs50.net/2016/fall/lectures/9)              | TBA    | TBA    |
-| Week 10 | [JavaScript](http://video.cs50.net/2016/fall/lectures/10)      | TBA    | TBA    |
-| Week 11 | [Git & Github](https://www.youtube.com/watch?v=MJUJ4wbFm_A)    | TBA    | TBA    |
-| Quiz    | Review & Quiz #1                                               | Review | Quiz   |
+| Lecture | Topic                                                          | Part 1        | Part 1        |
+|---------|----------------------------------------------------------------|---------------|---------------|
+| Week 0  | [Scratch](https://video.cs50.net/2016/fall/lectures/0)         | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Week 1  | [C](https://video.cs50.net/2016/fall/lectures/1)               | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Week 2  | [Arrays](https://video.cs50.net/2016/fall/lectures/2)          | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Week 3  | [Algorithims](https://video.cs50.net/2016/fall/lectures/3)     | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Week 4  | [Memory](https://video.cs50.net/2016/fall/lectures/4)          | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Week 5  | [Data Structures](http://video.cs50.net/2016/fall/lectures/5)  | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Quiz    | Review & Quiz #0                                               | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Week 6  | [HTTP](http://video.cs50.net/2016/fall/lectures/6)             | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Week 7  | [Machine Learning](http://video.cs50.net/2016/fall/lectures/7) | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Week 8  | [Python](http://video.cs50.net/2016/fall/lectures/8)           | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Week 9  | [SQL](http://video.cs50.net/2016/fall/lectures/9)              | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Week 10 | [JavaScript](http://video.cs50.net/2016/fall/lectures/10)      | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Week 11 | [Git & Github](https://www.youtube.com/watch?v=MJUJ4wbFm_A)    | TBA 0:00-?:?? | TBA ?:??-?:?? |
+| Quiz    | Review & Quiz #1                                               | TBA 0:00-?:?? | TBA ?:??-?:?? |
 
 ### <a name="sections"></a>Sections
 Lectures are supplemented by weekly, 120-minute sections led by the teaching fellows. Sections provide you with opportunities to explore the course’s material in a more intimate environment, with only your teaching fellow and a handful of classmates present, as well as to dive into hands-on activities.
