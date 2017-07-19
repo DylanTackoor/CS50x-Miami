@@ -278,7 +278,7 @@ You will utilize a number of resources and services throughout the course.
 - ```check50 [problem_name] [file_name]```: Command line tool built into CS50 IDE to run automated checks on your code
 - ```style50 [program_name]```: Benchmarks your code for good style against the course style guide
 - ```submit50 [program_name]```: Submits problem for grading via CS50.me
-- ```help50 [program_name] ```: Provides help for com-piler error messages
+- ```help50 [program_name] ```: Provides help for compiler error messages
 
 ## <a name="assignments"></a>Assignments
 
