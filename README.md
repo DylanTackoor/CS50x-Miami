@@ -458,4 +458,4 @@ Unless you opt out as described in the Acknowledgment and Authorization, you are
 
 If you have any questions about the above, contact heads@CS50xMiami.com.
 
-This is <a href="http://www.theideacenter.co/cs50xmiami" target="_blank">CS50x Miami</a>!
+This is [CS50x Miami](http://www.theideacenter.co/cs50xmiami)!
