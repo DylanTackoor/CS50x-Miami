@@ -88,7 +88,7 @@ Cohort 7 of CS50x Miami will
 A list of class functions (subject to change) are listed at [CS50xMiami.com/calendar](http://www.CS50xMiami.com/calendar) with descriptions found below. In the event of a change, this calendar will be the first to be updated. We encourage you to subscribe to the calendar.
 
 ### <a name="lectures"></a>Lectures
-CS50x Miami officially meets on Mondays and Wednesdays, from 6:00pm to 8:30pm in The Idea Center, Room #8525. A typical lecture runs roughly as follows:
+CS50x Miami officially meets on Mondays and Wednesdays, from 6:00pm to 8:30pm in [The Idea Center, MDC Building 8, Floor 5, Room #8525](https://goo.gl/maps/zaz4CDWoMT92). A typical lecture runs roughly as follows:
 - 10 min: A short recap of the prior lecture
 - 60 min: Watching a portion of the lecture taught at Harvard
 - 10 min: A small break
