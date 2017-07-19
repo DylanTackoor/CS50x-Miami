@@ -121,12 +121,12 @@ Although you can attend multiple sections if your personal schedule allows, you 
 
 A schedule of sections and instructors, subject to change, appears below.
 
-| Days       | Teaching Fellow                                                | Contact                |
-|------------|----------------------------------------------------------------|------------------------|
-| Mon 12-2pm | [Dylan Tackoor](https://www.facebook.com/DylanTackoor)         | dylan@cs50xmiami.com   |
-| Wed 12-2pm | [Gregory Barreto](https://www.facebook.com/TherealGregory)     | gregory@cs50xmiami.com |
-| Sat 9-11am | [Daniel Chang](https://www.facebook.com/daniel.chang.129)      | daniel@cs50xmiami.com  |
-| Sat 12-2pm | [Marlise Urscheler](https://www.facebook.com/marliseurscheler) | marlise@cs50xmiami.com |
+| Days       | Teaching Fellow                                                | Contact                | Room |
+|------------|----------------------------------------------------------------|------------------------|------|
+| Mon 12-2pm | [Dylan Tackoor](https://www.facebook.com/DylanTackoor)         | dylan@cs50xmiami.com   | TBA  |
+| Wed 12-2pm | [Gregory Barreto](https://www.facebook.com/TherealGregory)     | gregory@cs50xmiami.com | TBA  |
+| Sat 9-11am | [Daniel Chang](https://www.facebook.com/daniel.chang.129)      | daniel@cs50xmiami.com  | TBA  |
+| Sat 12-2pm | [Marlise Urscheler](https://www.facebook.com/marliseurscheler) | marlise@cs50xmiami.com | TBA  |
 
 - Scratch
 	- [Scratch](https://www.youtube.com/watch?v=52JoFF4HMA4)
@@ -235,12 +235,12 @@ A schedule of sections and instructors, subject to change, appears below.
 ### <a name="codinghours"></a>Coding Hours
 Coding hours are opportunities for assistance with problem sets alongside the course’s teaching fellows and course assistants. Office hours schedule sometimes overlap with sections but their help is always available as there will be multiple teaching fellows on hand. They take place in the same room as that day's section.
 
-| Day       | Time   |
-|-----------|--------|
-| Monday    | 2-5pm  |
-| Wednesday | 2-5pm  |
-| Saturday  | 9-11am |
-| Saturday  | 12-2pm |
+| Day       | Time   | Room |
+|-----------|--------|------|
+| Monday    | 2-5pm  | TBA  |
+| Wednesday | 2-5pm  | TBA  |
+| Saturday  | 9-11am | TBA  |
+| Saturday  | 12-2pm | TBA  |
 
 ## <a name="tools"></a>Tools
 
