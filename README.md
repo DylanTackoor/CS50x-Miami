@@ -111,7 +111,7 @@ A schedule of lectures, subject to change, appears below.
 | Week 8  | Python           | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/8)   | TBA ??:??-?:??:??                                                         |
 | Week 9  | SQL              | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/9)   | TBA ??:??-?:??:??                                                         |
 | Week 10 | JavaScript       | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/10)  | TBA ??:??-?:??:??                                                         |
-| Week 11 | Git & Github     | TBA [0:00-??:??]((https://www.youtube.com/watch?v=MJUJ4wbFm_A) | TBA ??:??-?:??:??                                                         |
+| Week 11 | Git & Github     | TBA [0:00-??:??](https://www.youtube.com/watch?v=MJUJ4wbFm_A)  | TBA ??:??-?:??:??                                                         |
 | Quiz    | Review & Quiz #1 | TBA                                                            | TBA                                                                       |
 
 ### <a name="sections"></a>Sections
