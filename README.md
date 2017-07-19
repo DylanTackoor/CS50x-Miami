@@ -144,6 +144,110 @@ A schedule of sections and instructors, subject to change, appears below.
 | Git & GitHub     | TBA   |
 | Quiz #1          | TBA   |
 
+- Scratch
+	- [Scratch](https://www.youtube.com/watch?v=52JoFF4HMA4)
+	- [Slides](https://docs.google.com/presentation/d/1tY-0XDh4xTLaQqXwuOmFR1J2bLcjryZ-WeJqfDKzGH4/edit?usp=sharing)
+- C
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/1eO-JrVcTs2OjopHUIOfG_tClWsk4Z4y0r5ECMrlnkIw/edit?usp=sharing)
+	- Videos
+		- [Command Line](https://www.youtube.com/watch?v=poT5Yd0Ag8I)
+		- [Data Types](https://www.youtube.com/watch?v=JFieJW_kZq4)
+		- [Operators](https://www.youtube.com/watch?v=_FC-8QaaYgs)
+		- [Conditional Statements](https://www.youtube.com/watch?v=kTnp_-nyocs)
+		- [Loops](https://www.youtube.com/watch?v=rBEwCpvwdPY)
+- Arrays
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/1znk60JK3CGBAZNGMryqG5ZE-pEDAwb9XhKiPTR2_Gw4/edit?usp=sharing)
+	- Videos
+		- [Functions](https://www.youtube.com/watch?v=jtuMIHebSu8)
+		- [Variables and Scope](https://www.youtube.com/watch?v=pBqyy8NwzqY)
+		- [Arrays](https://www.youtube.com/watch?v=7EdaoE46BTI)
+		- [Command Line Arguments](https://www.youtube.com/watch?v=eDI5Wqjq2a0)
+		- [Magic Numbers](https://www.youtube.com/watch?v=z_Nh9yt4d_s)
+- Algorithms
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/1l4mxqFUMgF2-XtjskUPNDzEJmXeR5KbVb4AjLUOsDZA/edit?usp=sharing)
+	- Videos
+		- [Computational Complexity](https://www.youtube.com/watch?v=IM9sHGlYV5A)
+		- [Bubble Sort](https://www.youtube.com/watch?v=Ui97-_n5xjo)
+		- [Selection Sort](https://www.youtube.com/watch?v=lx9G71uLXIg)
+		- [Insertion Sort](https://www.youtube.com/watch?v=lx9G71uLXIg)
+		- [Merge Sort](https://www.youtube.com/watch?v=sWtYJv_YXbo)
+		- [Linear Search](https://www.youtube.com/watch?v=vZWfKBdSgXI)
+		- [Binary Search](https://www.youtube.com/watch?v=5xlIPT1FRcA)
+- File I/O
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/1VqRLi8VJXmLWbJmhu9BU-XXdnIHSDn0rNxw8LSe2f4s/edit?usp=sharing)
+	- Videos
+		- [Hexadecimal](https://www.youtube.com/watch?v=nrFHGtGdOzA)
+		- [Pointers](https://www.youtube.com/watch?v=yOdd3uYC--A)
+		- [Dynamic Memory Allocation](https://www.youtube.com/watch?v=ywqB3ZTf8OE)
+		- [Structures](https://www.youtube.com/watch?v=6RLxPdZ59y0)
+		- [Defining Custom Types](https://www.youtube.com/watch?v=wgv4xH_tVgA)
+		- [Recursion](https://www.youtube.com/watch?v=VrrnjYgDBEk)
+		- [Call Stack](https://www.youtube.com/watch?v=beqqGIdabrE)
+- Data Structures
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/1rdFSYxjQSf9r_7Ml9_dth8F3eAVAoLYwB8Ws4v3T51I/edit?usp=sharing)
+	- Videos
+		- [File Pointers](https://www.youtube.com/watch?v=QOD2hHiHpn0)
+		- [Singly-Linked Lists](https://www.youtube.com/watch?v=ZoG2hOIoTnA)
+		- [Doubly-Linked Lists](https://www.youtube.com/watch?v=HmAEzp1taIE)
+		- [Stacks](https://www.youtube.com/watch?v=9Tp8wHD66lw)
+		- [Queues](https://www.youtube.com/watch?v=10jRKWI9s1k)
+		- [Hash Tables](https://www.youtube.com/watch?v=tjtFkT97Xmc)
+		- [Tries](https://www.youtube.com/watch?v=TRg9DQFu0kU)
+- Quiz #0 Review
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/1CSaT4Dre_wvS1Dia4O96xXNj5RrFb8Q4mw0JvDzkKb4/edit?usp=sharing)
+- HTTP
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/14gMhSLwSBtO0iKmeY8XSo5XF6Cj3ix-VGZTlPwoKhC4/edit?usp=sharing)
+	- Videos
+		- [Internet Primer](https://www.youtube.com/watch?v=oS_NAORY2Jw)
+		- [IP](https://www.youtube.com/watch?v=m-xgBan9V0U)
+		- [TCP](https://www.youtube.com/watch?v=uXa08E2gIa8)
+		- [HTTP](https://www.youtube.com/watch?v=iy6xhPB12V8)
+		- [HTML](https://www.youtube.com/watch?v=657YnQs2hVw)
+		- [CSS](https://www.youtube.com/watch?v=RNhQyOd29gk)
+- Machine Learning
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/1We4TTtUJmm4xNBgMcv54ZgVaJPh2zEPmrQ3Xe-rEUYo/edit?usp=sharing)
+- Python
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/1RIPixWXykpKnEub95PJJ4duaae7w1cCKZfBXSu41OM0/edit?usp=sharing)
+- SQL
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/1Y3cQuzg9cnaPYDAFbj2I-XFZ9IGYoXz03eF17llcGd8/edit?usp=sharing)
+- JavaScript
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/1V02zx-KZhae2OzPxbRCrntMEtWffbLwmJwb8-de44WE/edit?usp=sharing)
+	- Videos
+		- [JavaScript](https://www.youtube.com/watch?v=ZyXuwTTKKM0)
+		- [DOM](https://www.youtube.com/watch?v=pkcDcIhVM30)
+		- [Ajax](https://www.youtube.com/watch?v=FtefVGIgAfA)
+- Git & GitHub
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/183b_V_F_YvhHKBqYTpELKqP_oRWuo6UJw_jMSnO68nE/edit?usp=sharing)
+	- [Git & GitHub](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+- Quiz #1
+	- Dates
+		- TBA
+	- [Slides](https://docs.google.com/presentation/d/102b-2skJ4OnWUk3Q_-LJTY0xAfJ64YOeAaiSaiGCDO0/edit?usp=sharing)
+
 ### <a name="codinghours"></a>Coding Hours
 Coding hours are opportunities for assistance with problem sets alongside the course’s teaching fellows and course assistants. Office hours schedule sometimes overlap with sections but their help is always available as there will be multiple teaching fellows on hand. They take place in the same room as that day's section.
 
