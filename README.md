@@ -170,9 +170,11 @@ You will utilize a number of resources and services throughout the course.
 - [Reference50](reference.cs50.net): A comprehensive encyclopedia of C Standard library functions as well as CS50's library.
 
 ### <a name="commands"></a>Commands
-- ```check50```
-- ```submit50```
-- ```help50```
+- ```update50```: Updates the IDE to the current version
+- ```check50 [problem_name] [file_name]```: Command line tool built into CS50 IDE to run automated checks on your code
+- ```style50 [program_name]```: Benchmarks your code for good style against the course style guide
+- ```submit50 [program_name]```: Submits problem for grading via CS50.me
+- ```help50 [program_name] ```: Provides help for com-piler error messages
 
 ## <a name="assignments"></a>Assignments
 
@@ -226,6 +228,22 @@ Nine problem sets are assigned during the semester. Each is due by midnight on a
 	- Implement [C$50 Finance](http://docs.cs50.net/problems/finance/finance.html) in `pset7/finance/`
 - [Pset 8](http://docs.cs50.net/2017/x/psets/8/pset8.html)
 	- Implement [Mashup](http://docs.cs50.net/problems/mashup/mashup.html) in `pset8/mashup/`
+
+#### Grading
+Problem sets are graded on three axes. They, along and some pertinent questions to consider, appear below:
+- Correctness: “To what extent is your code consistent with our specifications and free of bugs?”
+- Design: “To what extent is your code written well (i.e., clearly, efficiently, elegantly, and/or logically)?”
+	- Can I eliminate:
+		- Repetition
+		- Loops
+		- [Magic numbers](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants)
+	- Is there a “shorter” way to accomplish the same thing?
+	- Should this code have been broken out into its own function?
+- Style: “To what extent is your code readable (i.e., commented and intended with variables aptly named?”
+	- Can I easily tell (via braces/indentation) the boundaries of each block of code?
+	- Is it clear what this variable does, based on its name? (:joy::poop::triumph:)
+	- If I didn’t understand C code, would I be able to tell what is happening based on comments alone?
+	- Are there so few or so many comments that I am distracted by their presence or absence?
 
 ### <a name="quizzes"></a>Quizzes
 The course has two 90-minute quizzes. These quizzes are "closed-book," but you may utilize during each quiz one two-sided page (8.5" × 11") of handwritten or typed notes, blank scrap paper, and a pen or pencil, nothing else.
