@@ -165,9 +165,9 @@ You will need,
 
 ### <a name="resources"></a>Resources
 You will utilize a number of resources and services throughout the course.
-- [ide50](cs50.io): A web based IDE, or Intergrated Development Environment, in which you will be coding. If internet access is intermittent, an offline version of the IDE can be ran by [following these instructions](https://manual.cs50.net/ide/offline).
+- [ide50](http://cs50.io): A web based IDE, or Intergrated Development Environment, in which you will be coding. If internet access is intermittent, an offline version of the IDE can be ran by [following these instructions](https://manual.cs50.net/ide/offline).
 - [Style Guide](https://manual.cs50.net/style): The styling portion of your grades is checked against this style guide. Ensure your styling is up to par, or at least consistent!
-- [Reference50](reference.cs50.net): A comprehensive encyclopedia of C Standard library functions as well as CS50's library.
+- [Reference50](https://reference.cs50.net): A comprehensive encyclopedia of C Standard library functions as well as CS50's library.
 
 ### <a name="commands"></a>Commands
 - ```update50```: Updates the IDE to the current version
