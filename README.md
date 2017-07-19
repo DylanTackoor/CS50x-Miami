@@ -111,7 +111,7 @@ A schedule of lectures, subject to change, appears below.
 | Week 8  | Python           | ?/?? [0:00-??:??](http://video.cs50.net/2016/fall/lectures/8)   | ?/?? [??:??-?:??:??]()                                                     |
 | Week 9  | SQL              | ?/?? [0:00-??:??](http://video.cs50.net/2016/fall/lectures/9)   | ?/?? [??:??-?:??:??]()                                                     |
 | Week 10 | JavaScript       | ?/?? [0:00-??:??](http://video.cs50.net/2016/fall/lectures/10)  | ?/?? [??:??-?:??:??]()                                                     |
-| Week 11 | Git & Github     | ?/?? [0:00-??:??](https://www.youtube.com/watch?v=MJUJ4wbFm_A)  | ?/?? [??:??-?:??:??]()                                                     |
+| Week 11 | Git & Github     | ?/?? [0:00-38:26](https://www.youtube.com/watch?v=MJUJ4wbFm_A)  | ?/??                                                                       |
 | Quiz    | Review & Quiz #1 | ?/??                                                            | ?/??                                                                       |
 
 ### <a name="sections"></a>Sections
