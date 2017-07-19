@@ -230,7 +230,7 @@ Nine problem sets are assigned during the semester. Each is due by midnight on a
 	- Implement [Mashup](http://docs.cs50.net/problems/mashup/mashup.html) in `pset8/mashup/`
 
 #### Grading
-Problem sets are graded on three axes. They, along and some pertinent questions to consider, appear below:
+Problem sets are graded on three axes. They, along with some pertinent questions to consider, appear below:
 - Correctness: “To what extent is your code consistent with our specifications and free of bugs?”
 - Design: “To what extent is your code written well (i.e., clearly, efficiently, elegantly, and/or logically)?”
 	- Can I eliminate:
