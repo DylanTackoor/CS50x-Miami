@@ -97,21 +97,21 @@ CS50x Miami officially meets on Mondays and Wednesdays, from 6:00pm to 8:30pm in
 
 A schedule of lectures, subject to change, appears below.
 
-| Lecture | Topic            | Part 1                                                         | Part 1                                                                    |
+| Lecture | Topic            | Part 1                                                         | Part 2                                                                    |
 |---------|------------------|----------------------------------------------------------------|---------------------------------------------------------------------------|
 | Week 0  | Scratch          | TBA [0:00-45:46](https://video.cs50.net/2016/fall/lectures/0)  | TBA [45:46-1:18:40](https://video.cs50.net/2016/fall/lectures/0?t=45m46s) |
-| Week 1  | C                | TBA [0:00-??:??](https://video.cs50.net/2016/fall/lectures/1)  | TBA ??:??-?:??:??                                                         |
-| Week 2  | Arrays           | TBA [0:00-??:??](https://video.cs50.net/2016/fall/lectures/2)  | TBA ??:??-?:??:??                                                         |
-| Week 3  | Algorithims      | TBA [0:00-??:??](https://video.cs50.net/2016/fall/lectures/3)  | TBA ??:??-?:??:??                                                         |
-| Week 4  | Memory           | TBA [0:00-??:??](https://video.cs50.net/2016/fall/lectures/4)  | TBA ??:??-?:??:??                                                         |
-| Week 5  | Data Structures  | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/5)   | TBA ??:??-?:??:??                                                         |
+| Week 1  | C                | TBA [0:00-??:??](https://video.cs50.net/2016/fall/lectures/1)  | TBA [??:??-?:??:??]()                                                     |
+| Week 2  | Arrays           | TBA [0:00-??:??](https://video.cs50.net/2016/fall/lectures/2)  | TBA [??:??-?:??:??]()                                                     |
+| Week 3  | Algorithims      | TBA [0:00-??:??](https://video.cs50.net/2016/fall/lectures/3)  | TBA [??:??-?:??:??]()                                                     |
+| Week 4  | Memory           | TBA [0:00-??:??](https://video.cs50.net/2016/fall/lectures/4)  | TBA [??:??-?:??:??]()                                                     |
+| Week 5  | Data Structures  | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/5)   | TBA [??:??-?:??:??]()                                                     |
 | Quiz    | Review & Quiz #0 | TBA                                                            | TBA                                                                       |
-| Week 6  | HTTP             | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/6)   | TBA ??:??-?:??:??                                                         |
-| Week 7  | Machine Learning | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/7)   | TBA ??:??-?:??:??                                                         |
-| Week 8  | Python           | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/8)   | TBA ??:??-?:??:??                                                         |
-| Week 9  | SQL              | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/9)   | TBA ??:??-?:??:??                                                         |
-| Week 10 | JavaScript       | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/10)  | TBA ??:??-?:??:??                                                         |
-| Week 11 | Git & Github     | TBA [0:00-??:??](https://www.youtube.com/watch?v=MJUJ4wbFm_A)  | TBA ??:??-?:??:??                                                         |
+| Week 6  | HTTP             | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/6)   | TBA [??:??-?:??:??]()                                                     |
+| Week 7  | Machine Learning | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/7)   | TBA [??:??-?:??:??]()                                                     |
+| Week 8  | Python           | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/8)   | TBA [??:??-?:??:??]()                                                     |
+| Week 9  | SQL              | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/9)   | TBA [??:??-?:??:??]()                                                     |
+| Week 10 | JavaScript       | TBA [0:00-??:??](http://video.cs50.net/2016/fall/lectures/10)  | TBA [??:??-?:??:??]()                                                     |
+| Week 11 | Git & Github     | TBA [0:00-??:??](https://www.youtube.com/watch?v=MJUJ4wbFm_A)  | TBA [??:??-?:??:??]()                                                     |
 | Quiz    | Review & Quiz #1 | TBA                                                            | TBA                                                                       |
 
 ### <a name="sections"></a>Sections
