@@ -134,7 +134,6 @@ A schedule of sections and instructors, subject to change, appears below.
   <tr>
     <th>Topic/Slides</th>
     <th>Videos</th>
-    <th>Slides</th>
     <th>Dates</th>
   </tr>
   <tr>
