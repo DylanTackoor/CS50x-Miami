@@ -47,7 +47,9 @@ Let's get started.
 	- [Reasonable](#reasonable)
 	- [Not Reasonable](#notreasonable)
 8. [Books](#books)
-9. [Acknowledgement & Authorization](#acknowledgement)
+9. [Miscellaneous](#misc)
+	- [Parking](#parking)
+10. [Acknowledgement & Authorization](#acknowledgement)
 
 ## <a name="tldr"></a>tl;dr (too long; didn’t read)
 - Course Title: CS50x Miami
@@ -128,109 +130,153 @@ A schedule of sections and instructors, subject to change, appears below.
 | Sat 9-11am | [Daniel Chang](https://www.facebook.com/daniel.chang.129)      | daniel@cs50xmiami.com  | TBA  |
 | Sat 12-2pm | [Marlise Urscheler](https://www.facebook.com/marliseurscheler) | marlise@cs50xmiami.com | TBA  |
 
-- Scratch
-	- [Scratch](https://www.youtube.com/watch?v=52JoFF4HMA4)
-	- [Slides](https://docs.google.com/presentation/d/1tY-0XDh4xTLaQqXwuOmFR1J2bLcjryZ-WeJqfDKzGH4/edit?usp=sharing)
-- C
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/1eO-JrVcTs2OjopHUIOfG_tClWsk4Z4y0r5ECMrlnkIw/edit?usp=sharing)
-	- Videos
-		- [Command Line](https://www.youtube.com/watch?v=poT5Yd0Ag8I)
-		- [Data Types](https://www.youtube.com/watch?v=JFieJW_kZq4)
-		- [Operators](https://www.youtube.com/watch?v=_FC-8QaaYgs)
-		- [Conditional Statements](https://www.youtube.com/watch?v=kTnp_-nyocs)
-		- [Loops](https://www.youtube.com/watch?v=rBEwCpvwdPY)
-- Arrays
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/1znk60JK3CGBAZNGMryqG5ZE-pEDAwb9XhKiPTR2_Gw4/edit?usp=sharing)
-	- Videos
-		- [Functions](https://www.youtube.com/watch?v=jtuMIHebSu8)
-		- [Variables and Scope](https://www.youtube.com/watch?v=pBqyy8NwzqY)
-		- [Arrays](https://www.youtube.com/watch?v=7EdaoE46BTI)
-		- [Command Line Arguments](https://www.youtube.com/watch?v=eDI5Wqjq2a0)
-		- [Magic Numbers](https://www.youtube.com/watch?v=z_Nh9yt4d_s)
-- Algorithms
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/1l4mxqFUMgF2-XtjskUPNDzEJmXeR5KbVb4AjLUOsDZA/edit?usp=sharing)
-	- Videos
-		- [Computational Complexity](https://www.youtube.com/watch?v=IM9sHGlYV5A)
-		- [Bubble Sort](https://www.youtube.com/watch?v=Ui97-_n5xjo)
-		- [Selection Sort](https://www.youtube.com/watch?v=lx9G71uLXIg)
-		- [Insertion Sort](https://www.youtube.com/watch?v=lx9G71uLXIg)
-		- [Merge Sort](https://www.youtube.com/watch?v=sWtYJv_YXbo)
-		- [Linear Search](https://www.youtube.com/watch?v=vZWfKBdSgXI)
-		- [Binary Search](https://www.youtube.com/watch?v=5xlIPT1FRcA)
-- File I/O
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/1VqRLi8VJXmLWbJmhu9BU-XXdnIHSDn0rNxw8LSe2f4s/edit?usp=sharing)
-	- Videos
-		- [Hexadecimal](https://www.youtube.com/watch?v=nrFHGtGdOzA)
-		- [Pointers](https://www.youtube.com/watch?v=yOdd3uYC--A)
-		- [Dynamic Memory Allocation](https://www.youtube.com/watch?v=ywqB3ZTf8OE)
-		- [Structures](https://www.youtube.com/watch?v=6RLxPdZ59y0)
-		- [Defining Custom Types](https://www.youtube.com/watch?v=wgv4xH_tVgA)
-		- [Recursion](https://www.youtube.com/watch?v=VrrnjYgDBEk)
-		- [Call Stack](https://www.youtube.com/watch?v=beqqGIdabrE)
-- Data Structures
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/1rdFSYxjQSf9r_7Ml9_dth8F3eAVAoLYwB8Ws4v3T51I/edit?usp=sharing)
-	- Videos
-		- [File Pointers](https://www.youtube.com/watch?v=QOD2hHiHpn0)
-		- [Singly-Linked Lists](https://www.youtube.com/watch?v=ZoG2hOIoTnA)
-		- [Doubly-Linked Lists](https://www.youtube.com/watch?v=HmAEzp1taIE)
-		- [Stacks](https://www.youtube.com/watch?v=9Tp8wHD66lw)
-		- [Queues](https://www.youtube.com/watch?v=10jRKWI9s1k)
-		- [Hash Tables](https://www.youtube.com/watch?v=tjtFkT97Xmc)
-		- [Tries](https://www.youtube.com/watch?v=TRg9DQFu0kU)
-- Quiz #0 Review
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/1CSaT4Dre_wvS1Dia4O96xXNj5RrFb8Q4mw0JvDzkKb4/edit?usp=sharing)
-- HTTP
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/14gMhSLwSBtO0iKmeY8XSo5XF6Cj3ix-VGZTlPwoKhC4/edit?usp=sharing)
-	- Videos
-		- [Internet Primer](https://www.youtube.com/watch?v=oS_NAORY2Jw)
-		- [IP](https://www.youtube.com/watch?v=m-xgBan9V0U)
-		- [TCP](https://www.youtube.com/watch?v=uXa08E2gIa8)
-		- [HTTP](https://www.youtube.com/watch?v=iy6xhPB12V8)
-		- [HTML](https://www.youtube.com/watch?v=657YnQs2hVw)
-		- [CSS](https://www.youtube.com/watch?v=RNhQyOd29gk)
-- Machine Learning
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/1We4TTtUJmm4xNBgMcv54ZgVaJPh2zEPmrQ3Xe-rEUYo/edit?usp=sharing)
-- Python
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/1RIPixWXykpKnEub95PJJ4duaae7w1cCKZfBXSu41OM0/edit?usp=sharing)
-- SQL
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/1Y3cQuzg9cnaPYDAFbj2I-XFZ9IGYoXz03eF17llcGd8/edit?usp=sharing)
-- JavaScript
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/1V02zx-KZhae2OzPxbRCrntMEtWffbLwmJwb8-de44WE/edit?usp=sharing)
-	- Videos
-		- [JavaScript](https://www.youtube.com/watch?v=ZyXuwTTKKM0)
-		- [DOM](https://www.youtube.com/watch?v=pkcDcIhVM30)
-		- [Ajax](https://www.youtube.com/watch?v=FtefVGIgAfA)
-- Git & GitHub
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/183b_V_F_YvhHKBqYTpELKqP_oRWuo6UJw_jMSnO68nE/edit?usp=sharing)
-	- [Git & GitHub](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
-- Quiz #1
-	- Dates
-		- TBA
-	- [Slides](https://docs.google.com/presentation/d/102b-2skJ4OnWUk3Q_-LJTY0xAfJ64YOeAaiSaiGCDO0/edit?usp=sharing)
+<table>
+  <tr>
+    <th>Topic/Slides</th>
+    <th>Videos</th>
+    <th>Slides</th>
+    <th>Dates</th>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1tY-0XDh4xTLaQqXwuOmFR1J2bLcjryZ-WeJqfDKzGH4/edit?usp=sharing">Scratch</a></td>
+    <td>
+		<ul>
+			<li><a href="https://www.youtube.com/watch?v=52JoFF4HMA4">Scratch</a></li>
+		</ul>
+	</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1eO-JrVcTs2OjopHUIOfG_tClWsk4Z4y0r5ECMrlnkIw/edit?usp=sharing">C</a></td>
+    <td>
+		<ul>
+			<li><a href="https://www.youtube.com/watch?v=poT5Yd0Ag8I">Command Line</a></li>
+			<li><a href="https://www.youtube.com/watch?v=JFieJW_kZq4">Data Types</a></li>
+			<li><a href="https://www.youtube.com/watch?v=_FC-8QaaYgs">Operators</a></li>
+			<li><a href="https://www.youtube.com/watch?v=kTnp_-nyocs">Conditional Statements</a></li>
+			<li><a href="https://www.youtube.com/watch?v=rBEwCpvwdPY">Loops</a></li>
+		</ul>	
+	</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1znk60JK3CGBAZNGMryqG5ZE-pEDAwb9XhKiPTR2_Gw4/edit?usp=sharing">Arrays</a></td>
+    <td>
+		<ul>
+			<li><a href="https://www.youtube.com/watch?v=jtuMIHebSu8">Functions</a></li>
+			<li><a href="https://www.youtube.com/watch?v=pBqyy8NwzqY">Variables and Scope</a></li>
+			<li><a href="https://www.youtube.com/watch?v=7EdaoE46BTI">Arrays</a></li>
+			<li><a href="https://www.youtube.com/watch?v=eDI5Wqjq2a0">Command Line Arguments</a></li>
+			<li><a href="https://www.youtube.com/watch?v=z_Nh9yt4d_s">Magic Numbers</a></li>
+		</ul>
+	</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1l4mxqFUMgF2-XtjskUPNDzEJmXeR5KbVb4AjLUOsDZA/edit?usp=sharing">Algorithms</a></td>
+    <td>
+		<ul>
+			<li><a href="https://www.youtube.com/watch?v=IM9sHGlYV5A">Computational Complexity</a></li>
+			<li><a href="https://www.youtube.com/watch?v=Ui97-_n5xjo">Bubble Sort</a></li>
+			<li><a href="https://www.youtube.com/watch?v=lx9G71uLXIg">Selection Sort</a></li>
+			<li><a href="https://www.youtube.com/watch?v=lx9G71uLXIg">Insertion Sort</a></li>
+			<li><a href="https://www.youtube.com/watch?v=sWtYJv_YXbo">Merge Sort</a></li>
+			<li><a href="https://www.youtube.com/watch?v=vZWfKBdSgXI">Linear Search</a></li>
+			<li><a href="https://www.youtube.com/watch?v=5xlIPT1FRcA">Binary Search</a></li>
+    	</ul>
+	</td>
+	<td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1VqRLi8VJXmLWbJmhu9BU-XXdnIHSDn0rNxw8LSe2f4s/edit?usp=sharing">File I/O</a></td>
+    <td>
+		<ul>
+			<li><a href="https://www.youtube.com/watch?v=nrFHGtGdOzA">Hexadecimal</a></li>
+			<li><a href="https://www.youtube.com/watch?v=yOdd3uYC--A">Pointers</a></li>
+			<li><a href="https://www.youtube.com/watch?v=ywqB3ZTf8OE">Dynamic Memory Allocation</a></li>
+			<li><a href="https://www.youtube.com/watch?v=6RLxPdZ59y0">Structures</a></li>
+			<li><a href="https://www.youtube.com/watch?v=wgv4xH_tVgA">Defining Custom Types</a></li>
+			<li><a href="https://www.youtube.com/watch?v=VrrnjYgDBEk">Recursion</a></li>
+			<li><a href="https://www.youtube.com/watch?v=beqqGIdabrE">Call Stack</a></li>
+    	</ul>
+	</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1rdFSYxjQSf9r_7Ml9_dth8F3eAVAoLYwB8Ws4v3T51I/edit?usp=sharing">Data Structures</a></td>
+    <td>
+		<ul>
+			<li><a href="https://www.youtube.com/watch?v=QOD2hHiHpn0">File Pointers</a></li>
+			<li><a href="https://www.youtube.com/watch?v=ZoG2hOIoTnA">Singly-Linked Lists</a></li>
+			<li><a href="https://www.youtube.com/watch?v=HmAEzp1taIE">Doubly-Linked Lists</a></li>
+			<li><a href="https://www.youtube.com/watch?v=9Tp8wHD66lw">Stacks</a></li>
+			<li><a href="https://www.youtube.com/watch?v=10jRKWI9s1k">Queues</a></li>
+			<li><a href="https://www.youtube.com/watch?v=tjtFkT97Xmc">Hash Tables</a></li>
+			<li><a href="https://www.youtube.com/watch?v=TRg9DQFu0kU">Tries</a></li>
+    	</ul>
+	</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1CSaT4Dre_wvS1Dia4O96xXNj5RrFb8Q4mw0JvDzkKb4/edit?usp=sharing">Quiz #0 Review</a></td>
+    <td></td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/14gMhSLwSBtO0iKmeY8XSo5XF6Cj3ix-VGZTlPwoKhC4/edit?usp=sharing">HTTP</a></td>
+    <td>
+		<ul>
+			<li><a href="https://www.youtube.com/watch?v=oS_NAORY2Jw">Internet Primer</a></li>
+			<li><a href="https://www.youtube.com/watch?v=m-xgBan9V0U">IP</a></li>
+			<li><a href="https://www.youtube.com/watch?v=uXa08E2gIa8">TCP</a></li>
+			<li><a href="https://www.youtube.com/watch?v=iy6xhPB12V8">HTTP</a></li>
+			<li><a href="https://www.youtube.com/watch?v=657YnQs2hVw">HTML</a></li>
+			<li><a href="https://www.youtube.com/watch?v=RNhQyOd29gk">CSS</a></li>
+    	</ul>
+	</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1We4TTtUJmm4xNBgMcv54ZgVaJPh2zEPmrQ3Xe-rEUYo/edit?usp=sharing">Machine Learning</a></td>
+    <td></td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1RIPixWXykpKnEub95PJJ4duaae7w1cCKZfBXSu41OM0/edit?usp=sharing">Python</a></td>
+    <td></td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1Y3cQuzg9cnaPYDAFbj2I-XFZ9IGYoXz03eF17llcGd8/edit?usp=sharing">SQL</a></td>
+    <td></td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/1V02zx-KZhae2OzPxbRCrntMEtWffbLwmJwb8-de44WE/edit?usp=sharing">JavaScript</a></td>
+    <td>
+		<ul>
+			<li><a href="https://www.youtube.com/watch?v=ZyXuwTTKKM0">JavaScript</a></li>
+			<li><a href="https://www.youtube.com/watch?v=pkcDcIhVM30">DOM</a></li>
+			<li><a href="https://www.youtube.com/watch?v=FtefVGIgAfA">Ajax</a></li>
+    	</ul>
+	</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/183b_V_F_YvhHKBqYTpELKqP_oRWuo6UJw_jMSnO68nE/edit?usp=sharing">Git &amp; GitHub</a></td>
+    <td>
+		<ul>
+    		<li><a href="https://www.youtube.com/watch?v=MJUJ4wbFm_A">Git & GitHub</a></li>
+		</ul>
+	</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td><a href="https://docs.google.com/presentation/d/102b-2skJ4OnWUk3Q_-LJTY0xAfJ64YOeAaiSaiGCDO0/edit?usp=sharing">Quiz #1</a></td>
+    <td></td>
+    <td>TBA</td>
+  </tr>
+</table>
 
 ### <a name="codinghours"></a>Coding Hours
 Coding hours are opportunities for assistance with problem sets alongside the course’s teaching fellows and course assistants. Office hours schedule sometimes overlap with sections but their help is always available as there will be multiple teaching fellows on hand. They take place in the same room as that day's section.
@@ -440,6 +486,12 @@ No books are required or recommended for this course. However, you might find th
 	- Stephen G. Kochan
 	- Pearson Education, 2015
 	- ISBN 0-321-77641-0
+
+## <a name="misc"></a>Miscellaneous
+
+### <a name="parking"></a>Parking
+Parking in the MDC Building 7 parking lot will be provided to all students! Visit the [Student Life Office, Room 2101](https://www.google.com/maps/place/25%C2%B046'42.1%22N+80%C2%B011'30.3%22W/@25.778358,-80.1922942,19z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d25.778358!4d-80.191747) Monday through Thursday from 8:00 a.m. to 7:00 p.m and 
+Friday 8:00 a.m. to 4:30 p.m. to pick up your pass.
 
 ## <a name="acknowledgement"></a>Acknowledgement & Authorization
 The Idea Center plans to record audio, photos, and video of CS50x Miami lectures, sections, office hours, seminars, and other events and activities related to CS50x Miami, with the aims of making the content of the course more widely available and contributing to public understanding of innovative learning. The recordings, or edited versions of them, may be made available to other Miami Dade College students, to students at other educational institutions, and to the broader public via the Internet, television, theatrical distribution, digital media, or other means. It is also possible that the Recordings may be used to make other derivative works in the future. Students may elect not to appear in photos and video and may still participate fully in CS50x Miami.
