@@ -53,8 +53,8 @@ Let's get started.
 
 ## <a name="tldr"></a>tl;dr (too long; didn’t read)
 - Course Title: CS50x Miami
-- Starts August 28th
-- Ends December 6th
+- Starts: September 11th, 2017
+- Ends: December 20th, 2017
 - Schedule:
 	- Lectures
 		- What: New topics introduction
@@ -73,7 +73,7 @@ Let's get started.
 	- due on Sundays
 - Credits for:
 	- COP 1334 - Introduction to C++ Programming (4 credits)
-	- CTS 2440 - Introduction to Oracle: SQL and PL/SQL (4 credits)
+	- CTS 2842 - Developing Websites Using PHP/MYSQL (4 credits)
 
 ## <a name="expectations"></a>Expectations
 You are expected to
@@ -84,13 +84,14 @@ You are expected to
 
 ## <a name="schedule"></a>Schedule
 Cohort 7 of CS50x Miami will
-- begin August 28th, 2017 and
-- end December 6th, 2017.
+
+- begin September 11th, 2017 and
+- conclude December 20th, 2017.
 
 A list of class functions (subject to change) are listed at [CS50xMiami.com/calendar](http://www.CS50xMiami.com/calendar) with descriptions found below. In the event of a change, this calendar will be the first to be updated. We encourage you to subscribe to the calendar.
 
 ### <a name="lectures"></a>Lectures
-CS50x Miami officially meets on Mondays and Wednesdays, from 6:00pm to 8:30pm in [The Idea Center, MDC Building 8, Floor 5, Room #8525](https://goo.gl/maps/zaz4CDWoMT92). A typical lecture runs roughly as follows:
+CS50x Miami officially meets on Mondays and Wednesdays, from 6:00pm to 8:30pm in [The Idea Center, MDC Building 8, Floor 5, Room #8525](https://www.google.com/maps/place/The+Idea+Center/@25.7775662,-80.1904111,18.26z/data=!4m12!1m6!3m5!1s0x88d9b69faa51d149:0x125a97627c728fa9!2sThe+Idea+Center!8m2!3d25.7775869!4d-80.1901529!3m4!1s0x88d9b69faa51d149:0x125a97627c728fa9!8m2!3d25.7775869!4d-80.1901529). A typical lecture runs roughly as follows:
 - 10 min: A short recap of the prior lecture
 - 60 min: Watching a portion of the lecture taught at Harvard
 - 10 min: A small break
@@ -291,18 +292,21 @@ Coding hours are opportunities for assistance with problem sets alongside the co
 
 ### <a name="accounts"></a>Accounts
 You will need,
-- [ ] A [GitHub](https://github.com/) account
-	- [ ] with [CS50.me](https://cs50.me/) authorized
-- [ ] An [edX.org](https://www.edx.org/) account
-	- [ ] enrolled into [CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+
+- A [GitHub](https://github.com/) account
+	- with [CS50.me](https://cs50.me/) authorized
+- An [edX.org](https://www.edx.org/) account
+	- enrolled into [CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 ### <a name="resources"></a>Resources
 You will utilize a number of resources and services throughout the course.
+
 - [ide50](http://cs50.io): A web based IDE, or Intergrated Development Environment, in which you will be coding. If internet access is intermittent, an offline version of the IDE can be ran by [following these instructions](https://manual.cs50.net/ide/offline).
 - [Style Guide](https://manual.cs50.net/style): The styling portion of your grades is checked against this style guide. Ensure your styling is up to par, or at least consistent!
 - [Reference50](https://reference.cs50.net): A comprehensive encyclopedia of C Standard library functions as well as CS50's library.
 
 ### <a name="commands"></a>Commands
+
 - ```update50```: Updates the IDE to the current version
 - ```check50 [problem_name] [file_name]```: Command line tool built into CS50 IDE to run automated checks on your code
 - ```style50 [program_name]```: Benchmarks your code for good style against the course style guide
@@ -313,6 +317,7 @@ You will utilize a number of resources and services throughout the course.
 
 ### <a name="psets"></a>Problem Sets
 Nine problem sets are assigned during the semester. Each is due by midnight on a Sunday. Late work is not ordinarily accepted, except in cases of emergency. A schedule of problem sets, subject to change, appears below.
+
 - Pset 0
 	- [Scratch](http://docs.cs50.net/2017/x/psets/0/pset0.html)
 - [Pset 1](http://docs.cs50.net/2017/x/psets/1/pset1.html)
@@ -364,7 +369,13 @@ Nine problem sets are assigned during the semester. Each is due by midnight on a
 
 #### Grading
 Problem sets are graded on three axes. They, along with some pertinent questions to consider, appear below:
+
 - Correctness: “To what extent is your code consistent with our specifications and free of bugs?”
+- Style: “To what extent is your code readable (i.e., commented and intended with variables aptly named?”
+	- Can I easily tell (via braces/indentation) the boundaries of each block of code?
+	- Is it clear what this variable does, based on its name? (:joy::poop::triumph:)
+	- If I didn’t understand C code, would I be able to tell what is happening based on comments alone?
+	- Are there so few or so many comments that I am distracted by their presence or absence?
 - Design: “To what extent is your code written well (i.e., clearly, efficiently, elegantly, and/or logically)?”
 	- Can I eliminate:
 		- Repetition
@@ -372,11 +383,6 @@ Problem sets are graded on three axes. They, along with some pertinent questions
 		- [Magic numbers](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants)
 	- Is there a “shorter” way to accomplish the same thing?
 	- Should this code have been broken out into its own function?
-- Style: “To what extent is your code readable (i.e., commented and intended with variables aptly named?”
-	- Can I easily tell (via braces/indentation) the boundaries of each block of code?
-	- Is it clear what this variable does, based on its name? (:joy::poop::triumph:)
-	- If I didn’t understand C code, would I be able to tell what is happening based on comments alone?
-	- Are there so few or so many comments that I am distracted by their presence or absence?
 
 ### <a name="quizzes"></a>Quizzes
 The course has two 90-minute quizzes. These quizzes are "closed-book," but you may utilize during each quiz one two-sided page (8.5" × 11") of handwritten or typed notes, blank scrap paper, and a pen or pencil, nothing else.
@@ -415,6 +421,7 @@ We will have pizza, candy, soda, music, a DJ, and a photobooth!
 
 ### <a name="hackathon"></a>Hackathon
 On Saturday, TBA, is the Hackathon, an epic hacking session during which you can dive into your final project’s implementation alongside classmates and staff. If you choose to partake, you’ll be asked to propose three milestones for yourself that evening:
+
 - a "good" one that you intend to achieve no matter what;
 - a "better" one that you think you can achieve; 
 - and a "best" one that you hope to achieve.
@@ -434,6 +441,7 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 If you commit some act that is not reasonable but bring it to the attention of the course’s heads within 72 hours, the course may impose local sanctions that may include an unsatisfactory or failing grade for work submitted, but the course will not refer the matter for further disciplinary action except in cases of repeated acts.
 
 ### <a name="reasonable"></a>Reasonable
+
 - Communicating with classmates about problem sets' problems in English (or some other spoken language).
 - Discussing the course’s material with others in order to understand it better.
 - Helping a classmate identify a bug in his or her code at office hours, elsewhere, or even online, as by viewing, compiling, or running his or her code, even on your own computer.
@@ -447,6 +455,7 @@ If you commit some act that is not reasonable but bring it to the attention of t
 - Working with (and even paying) a tutor to help you with the course, provided the tutor does not do your work for you.
 
 ### <a name="notreasonable"></a>Not Reasonable
+
 - Accessing a solution to some problem prior to (re-)submitting your own.
 - Asking a classmate to see his or her solution to a problem set’s problem before (re-)submitting your own.
 - Decompiling, deobfuscating, or disassembling the staff’s solutions to problem sets.
