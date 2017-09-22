@@ -16,7 +16,7 @@ We'll then quickly transition to a more traditional text-based language called [
 
 The problems we'll solve in this course are inspired by real-world domains: cryptography, finance, forensics, gaming, and more.
 
-Over the course of CS50x Miami, you'll be part of a global community solving those same problems, surrounded by classmates, by Dylan, by Marlise, by Chang, and so many others on CS50x Miami's team.
+Over the course of CS50x Miami, you'll be part of a global community solving those same problems, surrounded by classmates, by Dylan, by Gregory, and so many others on CS50x Miami's team.
 
 But the most successful outcome ahead is to do something, ultimately, that we've not taught you. Indeed, what ultimately matters in this course is not so much where you end up relatively to your classmates, but where you end up relative to yourself when you began.
 
@@ -53,7 +53,7 @@ Let's get started.
 
 ## <a name="tldr"></a>tl;dr (too long; didn’t read)
 - Course Title: CS50x Miami
-- Starts: September 11th, 2017
+- Starts: September 20th, 2017
 - Ends: December 20th, 2017
 - Schedule:
 	- Lectures
@@ -62,15 +62,15 @@ Let's get started.
 		- REQUIRED
 	- Sections
 		- What: Current topics breakdown & Q&A in smaller groups 
-		- When: Your choice of Mon/Wed/Sat 12-2pm, OR Sat morning 9-11am
+		- When: Your choice of Wed 12-2pm OR Sat 12-2pm
 		- REQUIRED and must consistently show up to one
 	- Coding Hours
 		- What: One-on-one tutoring & peer collaboration
-		- When: Mon/Wed/Sat from 2-5pm
+		- When: Wed/Sat from 2-5pm
 		- Term: Fall
 - Problem Sets are
-	- weekly homework assignments
-	- due on Sundays
+	- Weekly homework assignments
+	- Due on Wednesdays OR Sundays (see [Problem Sets](#psets))
 - Credits for:
 	- COP 1334 - Introduction to C++ Programming (4 credits)
 	- CTS 2842 - Developing Websites Using PHP/MYSQL (4 credits)
@@ -85,7 +85,7 @@ You are expected to
 ## <a name="schedule"></a>Schedule
 Cohort 7 of CS50x Miami will
 
-- begin September 11th, 2017 and
+- begin September 20th, 2017 and
 - conclude December 20th, 2017.
 
 A list of class functions (subject to change) are listed at [CS50xMiami.com/calendar](http://www.CS50xMiami.com/calendar) with descriptions found below. In the event of a change, this calendar will be the first to be updated. We encourage you to subscribe to the calendar.
@@ -102,20 +102,20 @@ A schedule of lectures, subject to change, appears below.
 
 | Lecture | Topic                    | Part 1                                                         | Part 2                                                                     |
 |---------|--------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------|
-| Week 0  | Scratch                  | 8/28 [0:00-45:46](https://video.cs50.net/2016/fall/lectures/0) | 8/30 [45:46-1:18:40](https://video.cs50.net/2016/fall/lectures/0?t=45m46s) |
-| Week 1  | C                        | ?/?? [0:00-??:??](https://video.cs50.net/2016/fall/lectures/1) | ?/?? [??:??-?:??:??]()                                                     |
-| Week 2  | Arrays                   | ?/?? [0:00-??:??](https://video.cs50.net/2016/fall/lectures/2) | ?/?? [??:??-?:??:??]()                                                     |
-| Week 3  | Algorithims              | ?/?? [0:00-??:??](https://video.cs50.net/2016/fall/lectures/3) | ?/?? [??:??-?:??:??]()                                                     |
-| Week 4  | Memory                   | ?/?? [0:00-??:??](https://video.cs50.net/2016/fall/lectures/4) | ?/?? [??:??-?:??:??]()                                                     |
-| Week 5  | Data Structures          | ?/?? [0:00-??:??](http://video.cs50.net/2016/fall/lectures/5)  | ?/?? [??:??-?:??:??]()                                                     |
-| Quiz    | Review & Quiz #0         | ?/??                                                           | ?/??                                                                       |
-| Week 6  | HTTP                     | ?/?? [0:00-??:??](http://video.cs50.net/2016/fall/lectures/6)  | ?/?? [??:??-?:??:??]()                                                     |
-| Week 7  | Machine Learning         | ?/?? [0:00-??:??](http://video.cs50.net/2016/fall/lectures/7)  | ?/?? [??:??-?:??:??]()                                                     |
-| Week 8  | Python                   | ?/?? [0:00-??:??](http://video.cs50.net/2016/fall/lectures/8)  | ?/?? [??:??-?:??:??]()                                                     |
-| Week 9  | SQL                      | ?/?? [0:00-??:??](http://video.cs50.net/2016/fall/lectures/9)  | ?/?? [??:??-?:??:??]()                                                     |
-| Week 10 | JavaScript               | ?/?? [0:00-??:??](http://video.cs50.net/2016/fall/lectures/10) | ?/?? [??:??-?:??:??]()                                                     |
-| Week 11 | Github & Project Pitches | ?/?? [0:00-38:26](https://www.youtube.com/watch?v=MJUJ4wbFm_A) | ?/??                                                                       |
-| Quiz    | Review & Quiz #1         | ?/??                                                           | ?/??                                                                       |
+| Week 0  | Scratch                  | 9/20 [0:00-45:46](https://video.cs50.net/2016/fall/lectures/0) | 9/25 [45:46-1:18:40](https://video.cs50.net/2016/fall/lectures/0?t=45m46s) |
+| Week 1  | C                        | 9/27 [0:00-??:??](https://video.cs50.net/2016/fall/lectures/1) | 10/2 [??:??-?:??:??]()                                                     |
+| Week 2  | Arrays                   | 10/4 [0:00-??:??](https://video.cs50.net/2016/fall/lectures/2) | 10/9 [??:??-?:??:??]()                                                     |
+| Week 3  | Algorithims              | 10/11 [0:00-??:??](https://video.cs50.net/2016/fall/lectures/3)| 10/16 [??:??-?:??:??]()                                            |
+| Week 4  | Memory                   | 10/18 [0:00-??:??](https://video.cs50.net/2016/fall/lectures/4)| 10/23 [??:??-?:??:??]()                                            |
+| Week 5  | Data Structures          | 10/25 [0:00-??:??](http://video.cs50.net/2016/fall/lectures/5) | 10/30 [??:??-?:??:??]()                                            |
+| Quiz    | Review & Quiz #0         | 11/1                                                                                                                                	   |
+| Week 6  | HTTP                     | 11/6 [0:00-??:??](http://video.cs50.net/2016/fall/lectures/6)  | 11/8 [??:??-?:??:??]()                                                     |
+| Week 7  | Machine Learning         | 11/13 [0:00-??:??](http://video.cs50.net/2016/fall/lectures/7) | 11/15 [??:??-?:??:??]()                                            |
+| Week 8  | Python                   | 11/20 [0:00-??:??](http://video.cs50.net/2016/fall/lectures/8) | 11/22 [??:??-?:??:??]()                                            |
+| Week 9  | SQL                      | 11/27 [0:00-??:??](http://video.cs50.net/2016/fall/lectures/9) | 11/29 [??:??-?:??:??]()                                            |
+| Week 10 | JavaScript               | 12/4 [0:00-??:??](http://video.cs50.net/2016/fall/lectures/10) | 12/6 [??:??-?:??:??]()                                                     |
+| Week 11 | Github & Project Pitches | 12/11 [0:00-38:26](https://www.youtube.com/watch?v=MJUJ4wbFm_A)| 12/13                                                                      |
+| Quiz    | Review & Quiz #1         | 12/18                                                           | ?/??                                                                      |
 
 ### <a name="sections"></a>Sections
 Lectures are supplemented by weekly, 120-minute sections led by the teaching fellows. Sections provide you with opportunities to explore the course’s material in a more intimate environment, with only your teaching fellow and a handful of classmates present, as well as to dive into hands-on activities.
@@ -126,10 +126,8 @@ A schedule of sections and instructors, subject to change, appears below.
 
 | Days       | Teaching Fellow                                                | Contact                | Room |
 |------------|----------------------------------------------------------------|------------------------|------|
-| Mon 12-2pm | [Dylan Tackoor](https://www.facebook.com/DylanTackoor)         | dylan@cs50xmiami.com   | TBA  |
-| Wed 12-2pm | [Gregory Barreto](https://www.facebook.com/TherealGregory)     | gregory@cs50xmiami.com | TBA  |
-| Sat 9-11am | [Daniel Chang](https://www.facebook.com/daniel.chang.129)      | daniel@cs50xmiami.com  | TBA  |
-| Sat 12-2pm | [Marlise Urscheler](https://www.facebook.com/marliseurscheler) | marlise@cs50xmiami.com | TBA  |
+| Wed 12-2pm | [Dylan Tackoor](https://www.facebook.com/DylanTackoor)         | dylan@cs50xmiami.com   | TBA  |
+| Sat 12-2pm | [Gregory Barreto](https://www.facebook.com/TherealGregory)     | gregory@cs50xmiami.com | TBA  |
 
 <table>
   <tr>
@@ -144,7 +142,7 @@ A schedule of sections and instructors, subject to change, appears below.
 			<li><a href="https://www.youtube.com/watch?v=52JoFF4HMA4">Scratch</a></li>
 		</ul>
 	</td>
-    <td>TBA</td>
+    <td>9/30 (Super Section)</td>
   </tr>
   <tr>
     <td><a href="https://docs.google.com/presentation/d/1eO-JrVcTs2OjopHUIOfG_tClWsk4Z4y0r5ECMrlnkIw/edit?usp=sharing">C</a></td>
@@ -157,7 +155,7 @@ A schedule of sections and instructors, subject to change, appears below.
 			<li><a href="https://www.youtube.com/watch?v=rBEwCpvwdPY">Loops</a></li>
 		</ul>	
 	</td>
-    <td>TBA</td>
+    <td>10/4 OR 10/7</td>
   </tr>
   <tr>
     <td><a href="https://docs.google.com/presentation/d/1znk60JK3CGBAZNGMryqG5ZE-pEDAwb9XhKiPTR2_Gw4/edit?usp=sharing">Arrays</a></td>
@@ -170,7 +168,7 @@ A schedule of sections and instructors, subject to change, appears below.
 			<li><a href="https://www.youtube.com/watch?v=z_Nh9yt4d_s">Magic Numbers</a></li>
 		</ul>
 	</td>
-    <td>TBA</td>
+    <td>10/11 OR 10/14</td>
   </tr>
   <tr>
     <td><a href="https://docs.google.com/presentation/d/1l4mxqFUMgF2-XtjskUPNDzEJmXeR5KbVb4AjLUOsDZA/edit?usp=sharing">Algorithms</a></td>
@@ -185,7 +183,7 @@ A schedule of sections and instructors, subject to change, appears below.
 			<li><a href="https://www.youtube.com/watch?v=5xlIPT1FRcA">Binary Search</a></li>
     	</ul>
 	</td>
-	<td>TBA</td>
+	<td>10/18 OR 10/21</td>
   </tr>
   <tr>
     <td><a href="https://docs.google.com/presentation/d/1VqRLi8VJXmLWbJmhu9BU-XXdnIHSDn0rNxw8LSe2f4s/edit?usp=sharing">File I/O</a></td>
@@ -200,7 +198,7 @@ A schedule of sections and instructors, subject to change, appears below.
 			<li><a href="https://www.youtube.com/watch?v=beqqGIdabrE">Call Stack</a></li>
     	</ul>
 	</td>
-    <td>TBA</td>
+    <td>10/25 OR 10/28</td>
   </tr>
   <tr>
     <td><a href="https://docs.google.com/presentation/d/1rdFSYxjQSf9r_7Ml9_dth8F3eAVAoLYwB8Ws4v3T51I/edit?usp=sharing">Data Structures</a></td>
@@ -215,7 +213,7 @@ A schedule of sections and instructors, subject to change, appears below.
 			<li><a href="https://www.youtube.com/watch?v=TRg9DQFu0kU">Tries</a></li>
     	</ul>
 	</td>
-    <td>TBA</td>
+    <td>11/1 OR 11/4</td>
   </tr>
   <tr>
     <td><a href="https://docs.google.com/presentation/d/1CSaT4Dre_wvS1Dia4O96xXNj5RrFb8Q4mw0JvDzkKb4/edit?usp=sharing">Quiz #0 Review</a></td>
@@ -234,22 +232,22 @@ A schedule of sections and instructors, subject to change, appears below.
 			<li><a href="https://www.youtube.com/watch?v=RNhQyOd29gk">CSS</a></li>
     	</ul>
 	</td>
-    <td>TBA</td>
+    <td>11/8 OR TBA (Veteren's Day)</td>
   </tr>
   <tr>
     <td><a href="https://docs.google.com/presentation/d/1We4TTtUJmm4xNBgMcv54ZgVaJPh2zEPmrQ3Xe-rEUYo/edit?usp=sharing">Machine Learning</a></td>
     <td></td>
-    <td>TBA</td>
+    <td>11/15 OR 11/18</td>
   </tr>
   <tr>
     <td><a href="https://docs.google.com/presentation/d/1RIPixWXykpKnEub95PJJ4duaae7w1cCKZfBXSu41OM0/edit?usp=sharing">Python</a></td>
     <td></td>
-    <td>TBA</td>
+    <td>11/22 OR TBD (Thanksgiving Holiday)</td>
   </tr>
   <tr>
     <td><a href="https://docs.google.com/presentation/d/1Y3cQuzg9cnaPYDAFbj2I-XFZ9IGYoXz03eF17llcGd8/edit?usp=sharing">SQL</a></td>
     <td></td>
-    <td>TBA</td>
+    <td>11/29 OR 12/2</td>
   </tr>
   <tr>
     <td><a href="https://docs.google.com/presentation/d/1V02zx-KZhae2OzPxbRCrntMEtWffbLwmJwb8-de44WE/edit?usp=sharing">JavaScript</a></td>
@@ -260,7 +258,7 @@ A schedule of sections and instructors, subject to change, appears below.
 			<li><a href="https://www.youtube.com/watch?v=FtefVGIgAfA">Ajax</a></li>
     	</ul>
 	</td>
-    <td>TBA</td>
+    <td>12/6 OR 12/9</td>
   </tr>
   <tr>
     <td><a href="https://docs.google.com/presentation/d/183b_V_F_YvhHKBqYTpELKqP_oRWuo6UJw_jMSnO68nE/edit?usp=sharing">Git &amp; GitHub</a></td>
@@ -285,8 +283,6 @@ Coding hours are opportunities for assistance with problem sets alongside the co
 |-----------|--------|------|
 | Monday    | 2-5pm  | TBA  |
 | Wednesday | 2-5pm  | TBA  |
-| Saturday  | 9-11am | TBA  |
-| Saturday  | 12-2pm | TBA  |
 
 ## <a name="tools"></a>Tools
 
@@ -316,11 +312,11 @@ You will utilize a number of resources and services throughout the course.
 ## <a name="assignments"></a>Assignments
 
 ### <a name="psets"></a>Problem Sets
-Nine problem sets are assigned during the semester. Each is due by midnight on a Sunday. Late work is not ordinarily accepted, except in cases of emergency. A schedule of problem sets, subject to change, appears below.
+Nine problem sets are assigned during the semester. Each is due by midnight on a Wednesday or Sunday (see dates below). Late work is not ordinarily accepted, except in cases of emergency. A schedule of problem sets, subject to change, appears below.
 
-- Pset 0
+- Pset 0: Due Wednesday, 10/4 at midnight
 	- [Scratch](http://docs.cs50.net/2017/x/psets/0/pset0.html)
-- [Pset 1](http://docs.cs50.net/2017/x/psets/1/pset1.html)
+- [Pset 1](http://docs.cs50.net/2017/x/psets/1/pset1.html): Due Wednesday, 10/11 at midnight
 	- Implement [Hello](http://docs.cs50.net/problems/hello/hello.html)
 	- Implement [Water](http://docs.cs50.net/problems/water/water.html)
 	- Implement either of:
@@ -329,7 +325,7 @@ Nine problem sets are assigned during the semester. Each is due by midnight on a
 	- Implement either of:
 		- [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable
 		- [Credit](http://docs.cs50.net/problems/credit/credit.html), more comfortable
-- [Pset 2](http://docs.cs50.net/2017/x/psets/2/pset2.html)
+- [Pset 2](http://docs.cs50.net/2017/x/psets/2/pset2.html): Due Wednesday, 10/18 at midnight
 	- Implement either of:
 		- [Initials](http://docs.cs50.net/problems/initials/less/initials.html), less comfortable
 		- [Initials](http://docs.cs50.net/problems/initials/more/initials.html), more comfortable
@@ -337,20 +333,20 @@ Nine problem sets are assigned during the semester. Each is due by midnight on a
 		- [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable
 		- [Vigenere](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable
 		- [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable
-- [Pset 3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
+- [Pset 3](http://docs.cs50.net/2017/x/psets/3/pset3.html): Due Wednesday, 10/25 at midnight
 	- Implement either of:
 		- [Find](http://docs.cs50.net/problems/find/less/find.html), less comfortable
 		- [Find](http://docs.cs50.net/problems/find/more/find.html), more comfortable
 	- Implement [Game of Fifteen](http://docs.cs50.net/problems/fifteen/fifteen.html)
-- [Pset 4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
+- [Pset 4](http://docs.cs50.net/2017/x/psets/4/pset4.html): Due Wednesday, 11/1 at midnight
 	- Implement [Whodunit](http://docs.cs50.net/problems/whodunit/whodunit.html)
 	- Implement either of:
 		- [Resize](http://docs.cs50.net/problems/resize/less/resize.html), less comfortable
 		- [Resize](http://docs.cs50.net/problems/resize/more/resize.html), more comfortable
 	- Implement [Recover](http://docs.cs50.net/problems/recover/recover.html)
-- [Pset 5](http://docs.cs50.net/2017/x/psets/5/pset5.html)
+- [Pset 5](http://docs.cs50.net/2017/x/psets/5/pset5.html): Due Wednesday, 11/8 at midnight
 	- Implement [Speller](http://docs.cs50.net/problems/speller/speller.html)
-- [Pset 6](http://docs.cs50.net/2017/x/psets/6/pset6.html)
+- [Pset 6](http://docs.cs50.net/2017/x/psets/6/pset6.html): Due Sunday, 11/26 at midnight
 	- Implement either of the below exactly as specified but in Python:
 		- [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable, in a file called `mario.py` in `pset6/`
 		- [Mario](http://docs.cs50.net/problems/mario/more/mario.html), more comfortable, in a file called `mario.py` in `pset6/`
@@ -362,9 +358,9 @@ Nine problem sets are assigned during the semester. Each is due by midnight on a
 		- [Vigenère](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable, in a file called `vigenere.py` in `pset6/`
 		- [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable, in a file called `crack.py` in `pset6/`
 	- Implement [Sentiments](http://docs.cs50.net/problems/sentiments/sentiments.html) in `pset6/sentiments/`
-- [Pset 7](http://docs.cs50.net/2017/x/psets/7/pset7.html)
+- [Pset 7](http://docs.cs50.net/2017/x/psets/7/pset7.html): Due Sunday, 12/3 at midnight
 	- Implement [C$50 Finance](http://docs.cs50.net/problems/finance/finance.html) in `pset7/finance/`
-- [Pset 8](http://docs.cs50.net/2017/x/psets/8/pset8.html)
+- [Pset 8](http://docs.cs50.net/2017/x/psets/8/pset8.html): Due Sunday, 12/10 at midnight
 	- Implement [Mashup](http://docs.cs50.net/problems/mashup/mashup.html) in `pset8/mashup/`
 
 #### Grading
