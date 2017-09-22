@@ -521,4 +521,5 @@ If you have any questions about the above, contact heads@CS50xMiami.com.
 This is [CS50x Miami](http://www.theideacenter.co/cs50xmiami)!
 
 &copy; Dylan Tackoor 2017
+
 &copy; David Malan 2017
