@@ -98,6 +98,11 @@ CS50x Miami officially meets on Mondays and Wednesdays, from 6:00pm to 8:30pm in
 - Asking students for their pain points
 - Lead instructor’s lecture based on the day’s topics + potential pain points
 
+| Lead Instructor                                                    | Contact                |
+|--------------------------------------------------------------------|------------------------|
+| [Ken Loomis](https://www.linkedin.com/in/kenneth-loomis-29789423/) | kloomis@mdc.edu        |
+
+
 A schedule of lectures, subject to change, appears below.
 
 | Lecture | Topic                    | Part 1                                                         | Part 2                                                                     |
