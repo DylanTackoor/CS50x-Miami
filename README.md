@@ -105,22 +105,22 @@ CS50x Miami officially meets on Mondays and Wednesdays, from 6:00pm to 8:30pm in
 
 A schedule of lectures, subject to change, appears below.
 
-| Lecture | Topic                    | Part 1                                                         | Part 2                                                                     |
-|---------|--------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------|
-| Week 0  | Scratch                  | 9/20 [0:00-45:46](https://video.cs50.net/2016/fall/lectures/0) | 9/25 [45:46-1:18:40](https://video.cs50.net/2016/fall/lectures/0?t=45m46s) |
-| Week 1  | C                        | 9/27 [0:00-??:??](https://video.cs50.net/2016/fall/lectures/1) | 10/2 [??:??-?:??:??]()                                                     |
-| Week 2  | Arrays                   | 10/4 [0:00-??:??](https://video.cs50.net/2016/fall/lectures/2) | 10/9 [??:??-?:??:??]()                                                     |
-| Week 3  | Algorithims              | 10/11 [0:00-??:??](https://video.cs50.net/2016/fall/lectures/3)| 10/16 [??:??-?:??:??]()                                            |
-| Week 4  | Memory                   | 10/18 [0:00-??:??](https://video.cs50.net/2016/fall/lectures/4)| 10/23 [??:??-?:??:??]()                                            |
-| Week 5  | Data Structures          | 10/25 [0:00-??:??](http://video.cs50.net/2016/fall/lectures/5) | 10/30 [??:??-?:??:??]()                                            |
-| Quiz    | Review & Quiz #0         | 11/1                                                                                                                                	   |
-| Week 6  | HTTP                     | 11/6 [0:00-??:??](http://video.cs50.net/2016/fall/lectures/6)  | 11/8 [??:??-?:??:??]()                                                     |
-| Week 7  | Machine Learning         | 11/13 [0:00-??:??](http://video.cs50.net/2016/fall/lectures/7) | 11/15 [??:??-?:??:??]()                                            |
-| Week 8  | Python                   | 11/20 [0:00-??:??](http://video.cs50.net/2016/fall/lectures/8) | 11/22 [??:??-?:??:??]()                                            |
-| Week 9  | SQL                      | 11/27 [0:00-??:??](http://video.cs50.net/2016/fall/lectures/9) | 11/29 [??:??-?:??:??]()                                            |
-| Week 10 | JavaScript               | 12/4 [0:00-??:??](http://video.cs50.net/2016/fall/lectures/10) | 12/6 [??:??-?:??:??]()                                                     |
-| Week 11 | Github & Project Pitches | 12/11 [0:00-38:26](https://www.youtube.com/watch?v=MJUJ4wbFm_A)| 12/13                                                                      |
-| Quiz    | Review & Quiz #1         | 12/18                                                           | ?/??                                                                      |
+| Lecture | Topic                    | Date  | Part 1 Video                                              | Date  | Part 2 Video                                                              |
+|---------|--------------------------|-------|-----------------------------------------------------------|-------|-----------------------------------------------------------------------------|
+| Week 0  | Scratch                  | 9/20 | [0:00-45:46](https://video.cs50.net/2016/fall/lectures/0)  | 9/25  | [45:46-1:18:40](https://video.cs50.net/2016/fall/lectures/0?t=45m46s)    |
+| Week 1  | C                        | 9/27 | [0:00-??:??](https://video.cs50.net/2016/fall/lectures/1)  | 10/2  | [??:??-?:??:??]()                                                       |
+| Week 2  | Arrays                   | 10/4 | [0:00-??:??](https://video.cs50.net/2016/fall/lectures/2)  | 10/9  | [??:??-?:??:??]()                                                       |
+| Week 3  | Algorithims              | 10/11 | [0:00-??:??](https://video.cs50.net/2016/fall/lectures/3) | 10/16 | [??:??-?:??:??]()                                                       |
+| Week 4  | Memory                   | 10/18 | [0:00-??:??](https://video.cs50.net/2016/fall/lectures/4) | 10/23 | [??:??-?:??:??]()                                                       |
+| Week 5  | Data Structures          | 10/25 | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/5)  | 10/30 | [??:??-?:??:??]()                                            |
+| Quiz    | Review & Quiz #0         | 11/1  |                                                                                                                              	   |
+| Week 6  | HTTP                     | 11/6  | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/6)  | 11/8  | [??:??-?:??:??]()                                                     |
+| Week 7  | Machine Learning         | 11/13 | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/7)  | 11/15 | [??:??-?:??:??]()                                            |
+| Week 8  | Python                   | 11/20 | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/8)  | 11/22 | [??:??-?:??:??]()                                            |
+| Week 9  | SQL                      | 11/27 | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/9)  | 11/29 | [??:??-?:??:??]()                                            |
+| Week 10 | JavaScript               | 12/4  | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/10) | 12/6  | [??:??-?:??:??]()                                                     |
+| Week 11 | Github & Project Pitches | 12/11 | [0:00-38:26](https://www.youtube.com/watch?v=MJUJ4wbFm_A) | 12/13 |                                                                    |
+| Quiz    | Review & Quiz #1         | 12/18 |
 
 ### <a name="sections"></a>Sections
 Lectures are supplemented by weekly, 120-minute sections led by the teaching fellows. Sections provide you with opportunities to explore the course’s material in a more intimate environment, with only your teaching fellow and a handful of classmates present, as well as to dive into hands-on activities.
