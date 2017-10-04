@@ -108,8 +108,8 @@ A schedule of lectures, subject to change, appears below.
 | Lecture | Topic                    | Date  | Part 1 Video                                              | Date  | Part 2 Video                                                              |
 |---------|--------------------------|-------|-----------------------------------------------------------|-------|-----------------------------------------------------------------------------|
 | Week 0  | Scratch                  | 9/20 | [0:00-45:46](https://video.cs50.net/2016/fall/lectures/0)  | 9/25  | [45:46-1:18:40](https://video.cs50.net/2016/fall/lectures/0?t=45m46s)    |
-| Week 1  | C                        | 9/27 | [0:00-59:53](https://video.cs50.net/2016/fall/lectures/1)  | 10/2  | [59:53-2:10:03](https://video.cs50.net/2016/fall/lectures/1?t=59m53s)                                                       |
-| Week 2  | Arrays                   | 10/4 | [0:00-??:??](https://video.cs50.net/2016/fall/lectures/2)  | 10/9  | [??:??-?:??:??]()                                                       |
+| Week 1  | C                        | 9/27 | [0:00-59:53](https://video.cs50.net/2016/fall/lectures/1)  | 10/2  | [59:53-2:10:03](https://video.cs50.net/2016/fall/lectures/1?t=59m53s)    |
+| Week 2  | Arrays                   | 10/4 | [0:00-1:1:20](https://video.cs50.net/2016/fall/lectures/2)  | 10/9  | [1:1:20-1:50:53](https://video.cs50.net/2016/fall/lectures/2?t=1h1m20s)   |
 | Week 3  | Algorithims              | 10/11 | [0:00-??:??](https://video.cs50.net/2016/fall/lectures/3) | 10/16 | [??:??-?:??:??]()                                                       |
 | Week 4  | Memory                   | 10/18 | [0:00-??:??](https://video.cs50.net/2016/fall/lectures/4) | 10/23 | [??:??-?:??:??]()                                                       |
 | Week 5  | Data Structures          | 10/25 | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/5)  | 10/30 | [??:??-?:??:??]()                                            |
