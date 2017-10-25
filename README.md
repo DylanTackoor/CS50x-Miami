@@ -111,8 +111,8 @@ A schedule of lectures, subject to change, appears below.
 | Week 1  | C                        | 9/27 | [0:00-59:53](https://video.cs50.net/2016/fall/lectures/1)  | 10/2  | [59:53-2:10:03](https://video.cs50.net/2016/fall/lectures/1?t=59m53s)    |
 | Week 2  | Arrays                   | 10/4 | [0:00-1:1:20](https://video.cs50.net/2016/fall/lectures/2)  | 10/9  | [1:1:20-1:50:53](https://video.cs50.net/2016/fall/lectures/2?t=1h1m20s)   |
 | Week 3  | Algorithims              | 10/11 | [0:00-40:19](https://video.cs50.net/2016/fall/lectures/3) | 10/16 | [40:19-1:25:17](https://video.cs50.net/2016/fall/lectures/3?t=40m19s)   |
-| Week 4  | Memory                   | 10/18 | [0:00-56:18](https://video.cs50.net/2016/fall/lectures/4) | 10/23 | [56:18-1:51:42](https://video.cs50.net/2016/fall/lectures/4?t=56m18s)    |
-| Week 5  | Data Structures          | 10/25 | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/5)  | 10/30 | [??:??-?:??:??]()                                            |
+| Week 4  | Memory                   | 10/18 | [0:00-56:18](https://video.cs50.net/2016/fall/lectures/4) | 10/23 | [56:18-1:51:42](https://video.cs50.net/2016/fall/lectures/4?t=56m18s)   |
+| Week 5  | Data Structures          | 10/25 | [0:00-54:00](http://video.cs50.net/2016/fall/lectures/5)  | 10/30 | [54:00-1:46:43](http://video.cs50.net/2016/fall/lectures/5?t=54m0s)     |
 | Quiz    | Review & Quiz #0         | 11/1  |                                                                                                                              	   |
 | Week 6  | HTTP                     | 11/6  | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/6)  | 11/8  | [??:??-?:??:??]()                                                     |
 | Week 7  | Machine Learning         | 11/13 | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/7)  | 11/15 | [??:??-?:??:??]()                                            |
