@@ -114,7 +114,7 @@ A schedule of lectures, subject to change, appears below.
 | Week 4  | Memory                   | 10/18 | [0:00-56:18](https://video.cs50.net/2016/fall/lectures/4) | 10/23 | [56:18-1:51:42](https://video.cs50.net/2016/fall/lectures/4?t=56m18s)   |
 | Week 5  | Data Structures          | 10/25 | [0:00-54:40](http://video.cs50.net/2016/fall/lectures/5)  | 10/30 | [54:40-1:46:43](http://video.cs50.net/2016/fall/lectures/5?t=54m40s)     |
 | Quiz    | Review & Quiz #0         | 11/1  |                                                                                                                              	   |
-| Week 6  | HTTP                     | 11/6  | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/6)  | 11/8  | [??:??-?:??:??]()                                                     |
+| Week 6  | HTTP                     | 11/6  | [0:00-58:37](http://video.cs50.net/2016/fall/lectures/6)  | 11/8  | [58:37-1:44:36](https://video.cs50.net/2016/fall/lectures/6?t=58m37s)                                                     |
 | Week 7  | Machine Learning         | 11/13 | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/7)  | 11/15 | [??:??-?:??:??]()                                            |
 | Week 8  | Python                   | 11/20 | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/8)  | 11/22 | [??:??-?:??:??]()                                            |
 | Week 9  | SQL                      | 11/27 | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/9)  | 11/29 | [??:??-?:??:??]()                                            |
