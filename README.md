@@ -352,7 +352,7 @@ Nine problem sets are assigned during the semester. Each is due by midnight on a
 	- Implement [Recover](http://docs.cs50.net/problems/recover/recover.html)
 - [Pset 5](http://docs.cs50.net/2017/x/psets/5/pset5.html): Due Wednesday, 11/8 at midnight
 	- Implement [Speller](http://docs.cs50.net/problems/speller/speller.html)
-- [Pset 6](http://docs.cs50.net/2017/x/psets/6/pset6.html): Due Sunday, 11/26 at midnight
+- [Pset 6](http://docs.cs50.net/2017/x/psets/6/pset6.html): Due Wednesday, 11/29 at midnight
 	- Implement either of the below exactly as specified but in Python:
 		- [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable, in a file called `mario.py` in `pset6/`
 		- [Mario](http://docs.cs50.net/problems/mario/more/mario.html), more comfortable, in a file called `mario.py` in `pset6/`
