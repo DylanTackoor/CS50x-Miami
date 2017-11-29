@@ -117,7 +117,7 @@ A schedule of lectures, subject to change, appears below.
 | Week 6  | HTTP                     | 11/6  | [0:00-58:37](http://video.cs50.net/2016/fall/lectures/6)  | 11/8  | [58:37-1:44:36](https://video.cs50.net/2016/fall/lectures/6?t=58m37s)                                                     |
 | Week 7  | Machine Learning         | 11/13 | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/7)  | 11/15 | [??:??-?:??:??]()                                            |
 | Week 8  | Python                   | 11/20 | [0:00-1:14:20](http://video.cs50.net/2016/fall/lectures/8)  | 11/22 | [1:14:20-2:12:59](https://video.cs50.net/2016/fall/lectures/8?t=1h14m20s)                                            |
-| Week 9  | SQL                      | 11/27 | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/9)  | 11/29 | [??:??-?:??:??]()                                            |
+| Week 9  | SQL                      | 11/27 | [0:00-38:38](http://video.cs50.net/2016/fall/lectures/9)  | 11/29 | [38:38-1:51:47](https://video.cs50.net/2016/fall/lectures/9?t=38m38s)                                            |
 | Week 10 | JavaScript               | 12/4  | [0:00-??:??](http://video.cs50.net/2016/fall/lectures/10) | 12/6  | [??:??-?:??:??]()                                                     |
 | Week 11 | Github & Project Pitches | 12/11 | [0:00-38:26](https://www.youtube.com/watch?v=MJUJ4wbFm_A) | 12/13 |                                                                    |
 | Quiz    | Review & Quiz #1         | 12/18 | |
